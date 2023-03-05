@@ -52,13 +52,13 @@
 14.  Distribuciones: Ubuntu  
     [https://es.wikipedia.org/wiki/Ubuntu](https://es.wikipedia.org/wiki/Ubuntu)
     
-15.  Recomendaciones de material complementario para divertirse:
-    Halt and Catch Fire (Serie de TV)  
-    [https://www.filmaffinity.com/es/film449215.html](https://www.filmaffinity.com/es/film449215.html)
-    Computador mágico  
-    [https://eltamiz.com/elcedazo/series/computador-magico/](https://eltamiz.com/elcedazo/series/computador-magico/)
-    Historia de un viejo informático  
-    [https://eltamiz.com/elcedazo/series/historia-de-un-viejo-informatico/](https://eltamiz.com/elcedazo/series/historia-de-un-viejo-informatico/) 
+15.  Recomendaciones de material complementario para divertirse:  
+    - Halt and Catch Fire (Serie de TV)  
+    [https://www.filmaffinity.com/es/film449215.html](https://www.filmaffinity.com/es/film449215.html)  
+    - Computador mágico  
+    [https://eltamiz.com/elcedazo/series/computador-magico/](https://eltamiz.com/elcedazo/series/computador-magico/)  
+    - Historia de un viejo informático  
+    [https://eltamiz.com/elcedazo/series/historia-de-un-viejo-informatico/](https://eltamiz.com/elcedazo/series/historia-de-un-viejo-informatico/)   
 
 ### 11:30 descanso (20 min)  
 
@@ -69,19 +69,17 @@ https://es.wikipedia.org/wiki/VirtualBox
 
 2. Instalación de VirtualBox + Ubuntu. ¿Qué vamos a hacer?
 
-3 pasos:
-1. Descargar VirtualBox para vuestro sistema operativo (Windows, Linux o Mac) e instalarlo.
-2. Descargar imagen del Sistema Operativo Ubuntu y el compresor/descompresor 7zip. Instalar 7zip.
-3. Configurar Virtualbox para que pueda usar Ubuntu.
+**3 pasos**  
+- Descargar VirtualBox para vuestro sistema operativo (Windows, Linux o Mac) e instalarlo.  
+- Descargar imagen del Sistema Operativo Ubuntu y el compresor/descompresor 7zip. Instalar 7zip.  
+- Configurar Virtualbox para que pueda usar Ubuntu.  
 
 1. Descargar VirtualBox (105Mb aprox.):
 https://www.virtualbox.org/wiki/Downloads
 
-Instrucciones de instalación:
-VirtualBox en Windows y Linux
-https://es.wikihow.com/instalar-VirtualBox
-VirtualBox en Mac
-https://bandageek.com/2017/04/instalar-virtualbox-en-mac-os-paso-a-paso/
+Instrucciones de instalación:  
+- VirtualBox en Windows y Linux https://es.wikihow.com/instalar-VirtualBox  
+- VirtualBox en Mac https://bandageek.com/2017/04/instalar-virtualbox-en-mac-os-paso-a-paso/  
 
 2. Descargar imagen de Ubuntu para usar con VirtualBox (2.59GB ¡GRANDE!) 
 NOTA: antes de descargar, asegurarse de que vuestro sistema tiene espacio para poder descargar el fichero. Puede tardar en descargar entre 10 min. y 1h.
@@ -100,8 +98,7 @@ Todos:
 3. Resto de instrucciones para instalar Ubuntu en VirtualBox:
 https://osl.ugr.es/2020/09/29/como-instalar-ubuntu-en-virtual-box/
 
-Lo veremos en clase, paso a paso.
-Si alguien quiere ir avanzando, en YouTube puede encontrar tutoriales paso a paso.
+En YouTube puede encontrar tutoriales paso a paso.
 
 Para entrar en el sistema, una vez instalado:
 usuario: osboxes
@@ -110,7 +107,7 @@ contraseña: osboxes.org
 Administrador:
 Contraseña de root: osboxes.org
 
-ALTERNATIVAS
+**Alternativas**
 
 On-line
 Sólo en caso en el que no tengas otra opción:
