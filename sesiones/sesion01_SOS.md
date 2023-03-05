@@ -1,0 +1,123 @@
+# Sesión 1: «SOS»
+
+**09:30 (30min) presentaciones**  
+
+1.  Objetivos  y contenidos del bloque II
+
+3.  Qué haremos hoy:
+	1. Teoría: sistemas
+	2. Sistemas Operativos Linux: Ubuntu
+
+**10:00 (10min) descanso**
+  
+**11:10 (1h 20min) Teoría
+
+1.  Sistemas (definición, propósito y ejemplos)
+    
+2.  Subsistemas y partes
+    
+3.  Sistema informático (esquemas)  
+    [https://es.wikipedia.org/wiki/Sistema_inform%C3%A1tico](https://es.wikipedia.org/wiki/Sistema_inform%C3%A1tico)  
+    [https://www.areatecnologia.com/informatica/sistema-informatico.html](https://www.areatecnologia.com/informatica/sistema-informatico.html)
+    
+4.  Software vs Hardware  
+    [https://edu.gcfglobal.org/es/informatica-basica/que-es-hardware-y-software/1/](https://edu.gcfglobal.org/es/informatica-basica/que-es-hardware-y-software/1/)
+5.  Concepto de informática: El propósito de un sistema informático  
+    [https://es.wikipedia.org/wiki/Inform%C3%A1tica](https://es.wikipedia.org/wiki/Inform%C3%A1tica)
+    
+6.  Comunicaciones entre partes. Ejemplo: Código morse (puntos y rayas) SOS= . . . - - - . . . 
+   [https://es.wikipedia.org/wiki/C%C3%B3digo_morse](https://es.wikipedia.org/wiki/C%C3%B3digo_morse)
+    
+7.  Analógico (continuo) vs digital (dígitos)  
+    [https://www.diferenciador.com/sistema-digital-y-sistema-analogico/](https://www.diferenciador.com/sistema-digital-y-sistema-analogico/)
+    
+8.  Dígitos (números de un sólo guarismo/cifra) vs números  
+    [https://es.wikipedia.org/wiki/Cifra_(matem%C3%A1tica)](https://es.wikipedia.org/wiki/Cifra_(matem%C3%A1tica))
+    
+9.  Binario vs decimal (otros duodecimal/docenal, hexadecimal…)  
+    [https://es.wikipedia.org/wiki/Sistema_binario](https://es.wikipedia.org/wiki/Sistema_binario)
+    
+10.  Comunicaciones entre ordenadores. Ejemplo: Tabla ASCII  
+    [https://es.wikipedia.org/wiki/ASCII](https://es.wikipedia.org/wiki/ASCII)
+    
+11.  Volviendo a los «sistemas»: El sistema operativo  
+    [https://es.wikipedia.org/wiki/Sistema_operativo](https://es.wikipedia.org/wiki/Sistema_operativo)
+    
+12.  Sistemas operativos en el mercado:  
+    MS-DOS, Windows, Mac OS, GNU Linux, Android, iOS...
+    
+13.  GNU Linux (Conceptos generales)  
+    [https://es.wikipedia.org/wiki/GNU/Linux](https://es.wikipedia.org/wiki/GNU/Linux)
+    
+14.  Distribuciones: Ubuntu  
+    [https://es.wikipedia.org/wiki/Ubuntu](https://es.wikipedia.org/wiki/Ubuntu)
+    
+15.  Recomendaciones de material complementario para divertirse:
+    Halt and Catch Fire (Serie de TV)  
+    [https://www.filmaffinity.com/es/film449215.html](https://www.filmaffinity.com/es/film449215.html)
+    Computador mágico  
+    [https://eltamiz.com/elcedazo/series/computador-magico/](https://eltamiz.com/elcedazo/series/computador-magico/)
+    Historia de un viejo informático  
+    [https://eltamiz.com/elcedazo/series/historia-de-un-viejo-informatico/](https://eltamiz.com/elcedazo/series/historia-de-un-viejo-informatico/) 
+
+**11:30 descanso  
+
+**12:00 (1h:30min)
+
+1. ¿Qué es VirtualBox?
+https://es.wikipedia.org/wiki/VirtualBox
+
+2. Instalación de VirtualBox + Ubuntu. ¿Qué vamos a hacer?
+
+3 pasos:
+1. Descargar VirtualBox para vuestro sistema operativo (Windows, Linux o Mac) e instalarlo.
+2. Descargar imagen del Sistema Operativo Ubuntu y el compresor/descompresor 7zip. Instalar 7zip.
+3. Configurar Virtualbox para que pueda usar Ubuntu.
+
+1. Descargar VirtualBox (105Mb aprox.):
+https://www.virtualbox.org/wiki/Downloads
+
+Instrucciones de instalación:
+VirtualBox en Windows y Linux
+https://es.wikihow.com/instalar-VirtualBox
+VirtualBox en Mac
+https://bandageek.com/2017/04/instalar-virtualbox-en-mac-os-paso-a-paso/
+
+2. Descargar imagen de Ubuntu para usar con VirtualBox (2.59GB ¡GRANDE!) 
+NOTA: antes de descargar, asegurarse de que vuestro sistema tiene espacio para poder descargar el fichero. Puede tardar en descargar entre 10 min. y 1h.
+
+https://www.osboxes.org/ubuntu/
+(Elegir: Ubuntu 22.04 Jammy Jellyfish)
+
+(Imprescindible) Descargar también:
+Compresor/decompresor 7zip para tu sistema operativo:
+https://www.7-zip.org/download.html
+
+Todos:
+- instalar 7zip
+- Abrir el fichero con Ubuntu que hemos descargado que está comprimido con .7zip
+
+3. Resto de instrucciones para instalar Ubuntu en VirtualBox:
+https://osl.ugr.es/2020/09/29/como-instalar-ubuntu-en-virtual-box/
+
+Lo veremos en clase, paso a paso.
+Si alguien quiere ir avanzando, en YouTube puede encontrar tutoriales paso a paso.
+
+Para entrar en el sistema, una vez instalado:
+usuario: osboxes
+contraseña: osboxes.org
+
+Administrador:
+Contraseña de root: osboxes.org
+
+ALTERNATIVAS
+
+On-line
+Sólo en caso en el que no tengas otra opción:
+https://www.onworks.net/os-distributions/ubuntu-based/free-ubuntu-online-version-20
+AVISO: La página incluye publicidad
+
+WSL2
+https://www.adslzone.net/esenciales/windows/linux-subsistema-windows/
+
+13:30 finalización de la sesión
