@@ -1,6 +1,6 @@
 # Índice
 
-- [Sesión 1: SOS](sesiones/sesion01_SOS)
+- [Sesión 1: SOS](sesiones/sesion01_SOS.md)
 
 ## Acerca de
 Materiales para el módulo II del curso recopilados por [Javier Guerra](https://javguerra.github.io/).
