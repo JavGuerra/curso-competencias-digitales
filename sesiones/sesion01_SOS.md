@@ -1,6 +1,6 @@
 # Sesión 1: «SOS»
 
-**09:30 (30min) presentaciones**  
+### 09:30 (30min) presentaciones  
 
 1.  Objetivos  y contenidos del bloque II
 
@@ -8,9 +8,9 @@
 	1. Teoría: sistemas
 	2. Sistemas Operativos Linux: Ubuntu
 
-**10:00 (10min) descanso**
+### 10:00 (10min) descanso
   
-**11:10 (1h 20min) Teoría**
+### 11:10 (1h 20min) Teoría
 
 1.  Sistemas (definición, propósito y ejemplos)
     
@@ -25,7 +25,7 @@
 5.  Concepto de informática: El propósito de un sistema informático  
     [https://es.wikipedia.org/wiki/Inform%C3%A1tica](https://es.wikipedia.org/wiki/Inform%C3%A1tica)
     
-6.  Comunicaciones entre partes. Ejemplo: Código morse (puntos y rayas) SOS= . . . - - - . . . 
+6.  Comunicaciones entre partes. Ejemplo: Código morse (puntos y rayas) SOS= . . . - - - . . .   
    [https://es.wikipedia.org/wiki/C%C3%B3digo_morse](https://es.wikipedia.org/wiki/C%C3%B3digo_morse)
     
 7.  Analógico (continuo) vs digital (dígitos)  
@@ -60,9 +60,9 @@
     Historia de un viejo informático  
     [https://eltamiz.com/elcedazo/series/historia-de-un-viejo-informatico/](https://eltamiz.com/elcedazo/series/historia-de-un-viejo-informatico/) 
 
-**11:30 descanso (20 min)**  
+### 11:30 descanso (20 min)  
 
-**11:50 (1h:40min)**
+### 11:50 (1h:40min) Práctica
 
 1. ¿Qué es VirtualBox?
 https://es.wikipedia.org/wiki/VirtualBox
@@ -120,4 +120,4 @@ AVISO: La página incluye publicidad
 WSL2
 https://www.adslzone.net/esenciales/windows/linux-subsistema-windows/
 
-**13:30 finalización de la sesión**
+### 13:30 finalización de la sesión
