@@ -10,7 +10,7 @@
 
 **10:00 (10min) descanso**
   
-**11:10 (1h 20min) Teoría
+**11:10 (1h 20min) Teoría**
 
 1.  Sistemas (definición, propósito y ejemplos)
     
@@ -60,9 +60,9 @@
     Historia de un viejo informático  
     [https://eltamiz.com/elcedazo/series/historia-de-un-viejo-informatico/](https://eltamiz.com/elcedazo/series/historia-de-un-viejo-informatico/) 
 
-**11:30 descanso  
+**11:30 descanso (20 min)**  
 
-**12:00 (1h:30min)
+**11:50 (1h:40min)**
 
 1. ¿Qué es VirtualBox?
 https://es.wikipedia.org/wiki/VirtualBox
@@ -120,4 +120,4 @@ AVISO: La página incluye publicidad
 WSL2
 https://www.adslzone.net/esenciales/windows/linux-subsistema-windows/
 
-13:30 finalización de la sesión
+**13:30 finalización de la sesión**
