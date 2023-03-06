@@ -81,6 +81,9 @@ Instrucciones de instalación:
 - VirtualBox en Windows y Linux https://es.wikihow.com/instalar-VirtualBox  
 - VirtualBox en Mac https://bandageek.com/2017/04/instalar-virtualbox-en-mac-os-paso-a-paso/  
 
+El algún caso la instalación solocita que debemos tener instalado Visual Studio code. Esto podemos hacerlo desde el siguiente enlace:
+https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022
+
 2. Descargar imagen de Ubuntu para usar con VirtualBox (2.59GB ¡GRANDE!) 
 NOTA: antes de descargar, asegurarse de que vuestro sistema tiene espacio para poder descargar el fichero. Puede tardar en descargar entre 10 min. y 1h.
 
