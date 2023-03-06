@@ -9,7 +9,7 @@ Qué haremos hoy:
 
 ### 09:30 (1:30 h) Teoría  
 
-Repaso de algunas cosas que vimos ayer: Puertos y controladores.
+Repaso de algunas cosas que vimos ayer: Puertos y controladores.  
 Material complementario: [componentes de un ordenador (PDF)](../recursos/componentes-ordenador.pdf).
 
 1. Analógico (continuo) vs digital (dígitos)  

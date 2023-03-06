@@ -1,7 +1,7 @@
 # Índice
 
 - [Sesión 1: SOS](sesiones/sesion01_SOS.md)
-- [Sesión 2: Sabores](sesion02_Sabores.md)
+- [Sesión 2: Sabores](sesiones/sesion02_Sabores.md)
 
 ## Acerca de
 Materiales para el módulo II del curso recopilados por [Javier Guerra](https://javguerra.github.io/).
