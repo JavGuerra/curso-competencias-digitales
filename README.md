@@ -1,5 +1,7 @@
 # Índice
 
+## Semana 1
+
 - [Sesión 1: SOS](sesiones/sesion01_SOS.md)
 - [Sesión 2: Sabores](sesiones/sesion02_Sabores.md)
 
