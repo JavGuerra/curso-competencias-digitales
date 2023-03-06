@@ -7,10 +7,8 @@
 3.  Qué haremos hoy:
 	1. Teoría: sistemas
 	2. Sistemas Operativos Linux: Ubuntu
-
-### 10:00 (10min) descanso
   
-### 11:10 (1h 20min) Teoría
+### 10:00 (1h 30min) Teoría
 
 1.  Sistemas (definición, propósito y ejemplos)
     
@@ -26,48 +24,17 @@
     [https://es.wikipedia.org/wiki/Inform%C3%A1tica](https://es.wikipedia.org/wiki/Inform%C3%A1tica)
     
 6.  Comunicaciones entre partes. Ejemplo: Código morse (puntos y rayas) SOS= . . . - - - . . .   
-   [https://es.wikipedia.org/wiki/C%C3%B3digo_morse](https://es.wikipedia.org/wiki/C%C3%B3digo_morse)
-    
-7.  Analógico (continuo) vs digital (dígitos)  
-    [https://www.diferenciador.com/sistema-digital-y-sistema-analogico/](https://www.diferenciador.com/sistema-digital-y-sistema-analogico/)
-    
-8.  Dígitos (números de un sólo guarismo/cifra) vs números  
-    [https://es.wikipedia.org/wiki/Cifra_(matem%C3%A1tica)](https://es.wikipedia.org/wiki/Cifra_(matem%C3%A1tica))
-    
-9.  Binario vs decimal (otros duodecimal/docenal, hexadecimal…)  
-    [https://es.wikipedia.org/wiki/Sistema_binario](https://es.wikipedia.org/wiki/Sistema_binario)
-    
-10.  Comunicaciones entre ordenadores. Ejemplo: Tabla ASCII  
-    [https://es.wikipedia.org/wiki/ASCII](https://es.wikipedia.org/wiki/ASCII)
-    
-11.  Volviendo a los «sistemas»: El sistema operativo  
-    [https://es.wikipedia.org/wiki/Sistema_operativo](https://es.wikipedia.org/wiki/Sistema_operativo)
-    
-12.  Sistemas operativos en el mercado:  
-    MS-DOS, Windows, Mac OS, GNU Linux, Android, iOS...
-    
-13.  GNU Linux (Conceptos generales)  
-    [https://es.wikipedia.org/wiki/GNU/Linux](https://es.wikipedia.org/wiki/GNU/Linux)
-    
-14.  Distribuciones: Ubuntu  
-    [https://es.wikipedia.org/wiki/Ubuntu](https://es.wikipedia.org/wiki/Ubuntu)
-    
-15.  Recomendaciones de material complementario para divertirse:  
+   [https://es.wikipedia.org/wiki/C%C3%B3digo_morse](https://es.wikipedia.org/wiki/C%C3%B3digo_morse)  
+   
+**Recomendaciones de material complementario para divertirse:**  
     - Halt and Catch Fire (Serie de TV)  
     [https://www.filmaffinity.com/es/film449215.html](https://www.filmaffinity.com/es/film449215.html)  
     - Computador mágico  
     [https://eltamiz.com/elcedazo/series/computador-magico/](https://eltamiz.com/elcedazo/series/computador-magico/)  
-    - Historia de un viejo informático  
-    [https://eltamiz.com/elcedazo/series/historia-de-un-viejo-informatico/](https://eltamiz.com/elcedazo/series/historia-de-un-viejo-informatico/)   
 
-### 11:30 descanso (20 min)  
+### 11:30 descanso (30 min)  
 
-### 11:50 (1h:40min) Práctica
-
-1. ¿Qué es VirtualBox?
-https://es.wikipedia.org/wiki/VirtualBox
-
-2. Instalación de VirtualBox + Ubuntu. ¿Qué vamos a hacer?
+### 12 (1h 30min) Práctica
 
 **3 pasos**  
 - Descargar VirtualBox para vuestro sistema operativo (Windows, Linux o Mac) e instalarlo.  
