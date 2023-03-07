@@ -4,8 +4,6 @@ Qué haremos hoy:
 - Repaso
 - Teoría
 - Arrancar Ubuntu
-- Configuración del sistema
-- Toma de contacto con el terminal
 
 ### 09:30 (1:30 h) Teoría  
 
@@ -23,7 +21,11 @@ Material complementario: [componentes de un ordenador (PDF)](../recursos/compone
     
 4.  Comunicaciones entre ordenadores. Ejemplo: Tabla ASCII  
     [https://es.wikipedia.org/wiki/ASCII](https://es.wikipedia.org/wiki/ASCII)
-    
+
+### 11:30 descanso (30 min)  
+
+### 11:50 (1h 30min) Teoría / Práctica
+
 5.  Volviendo a los «sistemas»: El sistema operativo  
     [https://es.wikipedia.org/wiki/Sistema_operativo](https://es.wikipedia.org/wiki/Sistema_operativo)
     
@@ -40,36 +42,17 @@ Material complementario: [componentes de un ordenador (PDF)](../recursos/compone
 	https://www.gnome.org/  
 	https://kde.org/es/  
 
-11. ¿Qué es VirtualBox?
+10. ¿Qué es VirtualBox?
 https://es.wikipedia.org/wiki/VirtualBox
-    
+
+- Configurando VirtualBox
+
+- Arrancar y apagar Ubuntu
+
 **Recomendaciones de material complementario para divertirse:**  
 	- Piratas de Silicon Valley  
 	https://www.filmaffinity.com/es/film399662.html  
     - Historia de un viejo informático  
     [https://eltamiz.com/elcedazo/series/historia-de-un-viejo-informatico/](https://eltamiz.com/elcedazo/series/historia-de-un-viejo-informatico/)   
-
-### 11:30 descanso (30 min)  
-
-### 11:50 (1h 30min) Práctica
-
-- Castellanizar Ubuntu.
-	- Configuración -> Región e idioma -> Instalar o eliminar idiomas
-	- Aplicar a todo el sistema
-	- En idioma: seleccionar Español
-- Teclado
-	- Poner en Español
-- Aplicaciones instaladas en el sistema
-- Cuentas en línea
-- Configuración del ratón para zurdos
-- Accesibilidad
-- Usuarios
-- Fecha y hora
-- Navegador de archivos
-- Papelera
-- Ayuda
-- Ubicación de aplicaciones: Navegador, LibreOffice...
-- Actualizaciones del sistema
-- El termial del Linux
 
 ### 13:30 finalización de la sesión

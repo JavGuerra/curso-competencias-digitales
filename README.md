@@ -4,6 +4,7 @@
 
 - [Sesión 1: SOS](sesiones/sesion01_SOS.md)
 - [Sesión 2: Sabores](sesiones/sesion02_Sabores.md)
+- [Sesión 3: Ruta](sesiones/sesion03_Ruta.md)
 
 ## Acerca de
 Materiales para el módulo II del curso recopilados por [Javier Guerra](https://javguerra.github.io/).
