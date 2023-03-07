@@ -20,7 +20,7 @@ https://es.wikipedia.org/wiki/Internet
 Repaso. Características de la red de redes: Pública, personalizada, descentralizada, ¿anónima?, ¿accesible?, universal, ilimitada, ubiqua, interactiva, inmediata, 24/7, automática, útil.  
 Ejercicio. Nombrar servicios y usos de Internet que se basan, implícitamente, en una estructura cliente-servidor: p.ej. correo electrónico, WWW...
 
-3. Estructuras de datos: Introducción a los conceptos de relacional y documental.
+3. Estructuras de datos: Introducción a los conceptos de relacional y documental.  
 https://es.wikipedia.org/wiki/Base_de_datos_relacional  
 https://es.wikipedia.org/wiki/Base_de_datos_documental  
 Ejercicio. Debate: ¿Es la WWW una gran base de datos documental? ()
