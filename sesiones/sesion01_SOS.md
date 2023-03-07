@@ -71,7 +71,7 @@ https://osl.ugr.es/2020/09/29/como-instalar-ubuntu-en-virtual-box/
 En YouTube puede encontrar tutoriales paso a paso.
 
 **Virtualización:**
-En algunos casos, virtualbox va a requerir que activemos la virtualización en la BIOS. Esto lo hará mediante un mensaje de error que nos mostrará VirtualBox cuando iniciemos la máquina virtual de Ubuntu. para hacerlo, debemos seguir las indicaciones del fabricante del ordenador sobre cómo activar la virtualización. Aquí algunos ejemplos:
+En algunos casos, virtualbox va a requerir que activemos la virtualización en la BIOS. Esto lo hará mediante un mensaje de error que nos mostrará VirtualBox cuando iniciemos la máquina virtual de Ubuntu. para hacerlo, debemos seguir las indicaciones del fabricante del ordenador sobre cómo activar la virtualización. Aquí algunos ejemplos:  
 Lenovo: https://support.lenovo.com/es/es/solutions/ht500006-how-to-enable-virtualization-technology-on-lenovo-computers  
 HP: https://support.hp.com/es-es/document/ish_5637144-5698274-16  
 
