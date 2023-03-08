@@ -10,19 +10,25 @@ Qué haremos hoy:
 
 - Repaso
 
-1. Unidades de información  
+1. Unidades de información:
+   bit, byte (octeto),  Kilobyte, Megabyte, Gigabyte, Terabyte, Petabyte...
 https://es.wikipedia.org/wiki/Unidades_de_informaci%C3%B3n  
+https://es.wikipedia.org/wiki/Categor%C3%ADa:Unidades_de_informaci%C3%B3n  
 
-2. Arquitectura cliente-servidor  
+2. Arquitectura cliente-servidor y Peer-to-peer
 https://es.wikipedia.org/wiki/Cliente-servidor  
-- Ejemplo: Internet  
+https://es.wikipedia.org/wiki/Peer-to-peer
+- Ejemplo cliente servidor: Internet  
 https://es.wikipedia.org/wiki/Internet  
 Repaso. Características de la red de redes: Pública, personalizada, descentralizada, ¿anónima?, ¿accesible?, universal, ilimitada, ubiqua, interactiva, inmediata, 24/7, automática, útil.  
 Ejercicio. Nombrar servicios y usos de Internet que se basan, implícitamente, en una estructura cliente-servidor: p.ej. correo electrónico, World Wide Web...
+- Ejemplos peer-to-peer: Bitcoin, Torrents...  
+https://es.wikipedia.org/wiki/Bitcoin
 
 3. Estructuras de datos: Introducción a los conceptos de relacional y documental.  
 https://es.wikipedia.org/wiki/Base_de_datos_relacional  
 https://es.wikipedia.org/wiki/Base_de_datos_documental  
+https://es.wikipedia.org/wiki/Sistema_de_gesti%C3%B3n_de_bases_de_datos  
 Ejercicio. Debate: ¿Es la WWW una gran base de datos documental?
 
 **Recomendaciones de material complementario para divertirse:**  
