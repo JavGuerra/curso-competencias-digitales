@@ -70,6 +70,9 @@ https://osl.ugr.es/2020/09/29/como-instalar-ubuntu-en-virtual-box/
 
 En YouTube puede encontrar tutoriales paso a paso.
 
+**Problemas**
+Errores recurrentes. Si ocurren errores que no tienen que ver con virtualización, seleccionad 2 procesadores en vez de uno cuando configureis la máquina virtual.
+
 **Virtualización:**
 En algunos casos, virtualbox va a requerir que activemos la virtualización en la BIOS. Esto lo hará mediante un mensaje de error que nos mostrará VirtualBox cuando iniciemos la máquina virtual de Ubuntu. para hacerlo, debemos seguir las indicaciones del fabricante del ordenador sobre cómo activar la virtualización. Aquí algunos ejemplos:  
 Lenovo: https://support.lenovo.com/es/es/solutions/ht500006-how-to-enable-virtualization-technology-on-lenovo-computers  
