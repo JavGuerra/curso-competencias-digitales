@@ -10,12 +10,12 @@ Qué haremos hoy:
 
 - Repaso
 
-1. Estructura de Internet (IP)
+1. Estructura de Internet (IP)  
 https://es.wikipedia.org/wiki/Direcci%C3%B3n_IP  
 https://es.wikipedia.org/wiki/Protocolo_de_internet (enrutamiento)  
 https://es.wikipedia.org/wiki/Protocolo_de_transferencia_de_hipertexto (HTTP)  
 
-- Protocolos de Internet  (TCP/IP, otros)
+- Protocolos de Internet  (TCP/IP, otros)  
 https://es.wikipedia.org/wiki/Modelo_TCP/IP  
 https://es.wikipedia.org/wiki/Familia_de_protocolos_de_internet  
 
@@ -46,7 +46,7 @@ Ejercicio. Debate: ¿Es la WWW una gran base de datos documental?
 https://youtu.be/Zc1tZ8JsZvg  
 - Libro: El mundo digital. Nicholas Negroponte (1995)  
 - Libro. Camino al futuro. Bill Gates (1997)  
-- Libro: Hiperculptura visual, Arturo colorado Castellary (1997)  
+- Libro: Hipercultura visual, Arturo colorado Castellary (1997)  
 
 ### 11:30 descanso (30 min)  
 
