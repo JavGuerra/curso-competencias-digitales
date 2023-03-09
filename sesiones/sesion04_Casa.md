@@ -32,7 +32,7 @@ https://es.wikipedia.org/wiki/Punto_de_acceso_inal%C3%A1mbrico
 DHCP  
 https://es.wikipedia.org/wiki/Protocolo_de_configuraci%C3%B3n_din%C3%A1mica_de_host  
 
-Direccionamiento IP
+Direccionamiento IP  
 ![Direccionamiento IP](https://borrame.com/_/img/ip-estimada.png)  
 
 2. Estructuras de datos: Introducción a los conceptos de relacional y documental.  
