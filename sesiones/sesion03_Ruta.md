@@ -11,7 +11,7 @@ Qué haremos hoy:
 - Repaso
 
 1. Unidades de información:
-   bit, byte (octeto),  Kilobyte, Megabyte, Gigabyte, Terabyte, Petabyte...
+   bit, byte (octeto),  Kilobyte, Megabyte, Gigabyte, Terabyte, Petabyte...  
 https://es.wikipedia.org/wiki/Unidades_de_informaci%C3%B3n  
 https://es.wikipedia.org/wiki/Categor%C3%ADa:Unidades_de_informaci%C3%B3n  
 
@@ -25,12 +25,6 @@ Ejercicio. Nombrar servicios y usos de Internet que se basan, implícitamente, e
 - Ejemplos peer-to-peer: Bitcoin, Torrents...  
 https://es.wikipedia.org/wiki/Bitcoin
 
-3. Estructuras de datos: Introducción a los conceptos de relacional y documental.  
-https://es.wikipedia.org/wiki/Base_de_datos_relacional  
-https://es.wikipedia.org/wiki/Base_de_datos_documental  
-https://es.wikipedia.org/wiki/Sistema_de_gesti%C3%B3n_de_bases_de_datos  
-Ejercicio. Debate: ¿Es la WWW una gran base de datos documental?
-
 **Recomendaciones de material complementario para divertirse:**  
 - La red social  
 https://www.filmaffinity.com/es/film577699.html  
@@ -43,25 +37,11 @@ https://www.filmaffinity.com/es/film425311.html
 
 ### 11:50 (1h 30min) Práctica
 
-- Castellanizar Ubuntu.
+- Castellanizar Ubuntu
 	- Configuración -> Región e idioma -> Instalar o eliminar idiomas
 	- Aplicar a todo el sistema
 	- En idioma: seleccionar Español
 - Teclado
 	- Poner en Español
-- Aplicaciones instaladas en el sistema
-- Cuentas en línea
-- Configuración del ratón para zurdos
-- Accesibilidad
-- Usuarios
-- Fecha y hora
-- Navegador de archivos
-- Papelera
-- Ayuda
-- Ubicación de aplicaciones: Navegador, LibreOffice...
-- Instalar GUFW Firewall
-- Actualizaciones del sistema
-
-- El termial del Linux
 
 ### 13:30 finalización de la sesión

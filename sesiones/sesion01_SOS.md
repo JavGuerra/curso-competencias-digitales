@@ -62,7 +62,7 @@ Compresor/decompresor 7zip para tu sistema operativo:
 https://www.7-zip.org/download.html
 
 Todos:
-- instalar 7zip
+- Instalar 7zip
 - Abrir el fichero con Ubuntu que hemos descargado que está comprimido con .7zip
 
 3. Resto de instrucciones para instalar Ubuntu en VirtualBox:
