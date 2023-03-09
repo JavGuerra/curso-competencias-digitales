@@ -26,6 +26,7 @@ Capas:
 
 Router  
 https://es.wikipedia.org/wiki/Router  
+
 Punto de acceso inalámbrico  
 https://es.wikipedia.org/wiki/Punto_de_acceso_inal%C3%A1mbrico
 
