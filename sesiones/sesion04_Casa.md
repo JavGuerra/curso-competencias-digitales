@@ -33,19 +33,13 @@ DHCP
 https://es.wikipedia.org/wiki/Protocolo_de_configuraci%C3%B3n_din%C3%A1mica_de_host  
 
 Direccionamiento IP  
-![Direccionamiento IP](https://borrame.com/_/img/ip-estimada.png)  
-
-2. Estructuras de datos: Introducción a los conceptos de relacional y documental.  
-https://es.wikipedia.org/wiki/Base_de_datos_relacional  
-https://es.wikipedia.org/wiki/Base_de_datos_documental  
-https://es.wikipedia.org/wiki/Sistema_de_gesti%C3%B3n_de_bases_de_datos  
-Ejercicio. Debate: ¿Es la WWW una gran base de datos documental?
+![Direccionamiento IP](../recursos/ip.png) 
 
 **Recomendaciones de material complementario para divertirse:** 
 - Lo And Behold: Reveries of the Connected World - Official Trailer (inglés)  
 https://youtu.be/Zc1tZ8JsZvg  
 - Libro: El mundo digital. Nicholas Negroponte (1995)  
-- Libro. Camino al futuro. Bill Gates (1997)  
+- Libro: Camino al futuro. Bill Gates (1997)  
 - Libro: Hipercultura visual, Arturo colorado Castellary (1997)  
 
 ### 11:30 descanso (30 min)  
