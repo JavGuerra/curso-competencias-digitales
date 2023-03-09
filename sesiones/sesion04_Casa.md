@@ -29,6 +29,9 @@ https://es.wikipedia.org/wiki/Router
 Punto de acceso inalámbrico  
 https://es.wikipedia.org/wiki/Punto_de_acceso_inal%C3%A1mbrico
 
+DNS  
+https://es.wikipedia.org/wiki/Sistema_de_nombres_de_dominio
+
 DHCP  
 https://es.wikipedia.org/wiki/Protocolo_de_configuraci%C3%B3n_din%C3%A1mica_de_host  
 

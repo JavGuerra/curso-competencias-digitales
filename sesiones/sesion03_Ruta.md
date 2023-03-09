@@ -15,7 +15,7 @@ Qué haremos hoy:
 https://es.wikipedia.org/wiki/Unidades_de_informaci%C3%B3n  
 https://es.wikipedia.org/wiki/Categor%C3%ADa:Unidades_de_informaci%C3%B3n  
 
-2. Arquitectura cliente-servidor y Peer-to-peer
+2. Arquitectura cliente-servidor y Peer-to-peer  
 https://es.wikipedia.org/wiki/Cliente-servidor  
 https://es.wikipedia.org/wiki/Peer-to-peer
 - Ejemplo cliente servidor: Internet  
