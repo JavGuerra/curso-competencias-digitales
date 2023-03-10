@@ -33,10 +33,11 @@ https://es.wikipedia.org/wiki/Protocolo_de_configuraci%C3%B3n_din%C3%A1mica_de_h
 
 **Resumen**  
 
-Capas de red destacadas:  
-- Aplicación: HTTP  
-- Transporte: TCP / UDP  
-- Red: IP  
+**Capas del modelo TCP/IP**:  
+4. Aplicación: HTTP  
+3. Transporte: TCP / UDP  
+2. Red: IP  
+1. Acceso al medio: MAC  
 
 ![Direccionamiento IP](../recursos/ip.png) 
 
