@@ -15,26 +15,28 @@ https://es.wikipedia.org/wiki/Direcci%C3%B3n_IP
 https://es.wikipedia.org/wiki/Protocolo_de_internet (enrutamiento)  
 https://es.wikipedia.org/wiki/Protocolo_de_transferencia_de_hipertexto (HTTP)  
 
-2. Protocolos de Internet  (TCP/IP, otros)  
+2. Protocolos de Internet (TCP/IP, otros)  
 https://es.wikipedia.org/wiki/Modelo_TCP/IP  
 https://es.wikipedia.org/wiki/Familia_de_protocolos_de_internet  
 
-Capas:
-- Aplicación: HTTP
-- Transporte: TCP / UDP
-- Red: IP
+3. DNS  
+https://es.wikipedia.org/wiki/Sistema_de_nombres_de_dominio
+
+4. La red local
 
 - Router  
 https://es.wikipedia.org/wiki/Router  
-
 - Punto de acceso inalámbrico  
-https://es.wikipedia.org/wiki/Punto_de_acceso_inal%C3%A1mbrico
-
-- DNS  
-https://es.wikipedia.org/wiki/Sistema_de_nombres_de_dominio
-
+https://es.wikipedia.org/wiki/Punto_de_acceso_inal%C3%A1mbrico  
 - DHCP  
 https://es.wikipedia.org/wiki/Protocolo_de_configuraci%C3%B3n_din%C3%A1mica_de_host  
+
+**Resumen**  
+
+Capas de red destacadas:  
+- Aplicación: HTTP  
+- Transporte: TCP / UDP  
+- Red: IP  
 
 ![Direccionamiento IP](../recursos/ip.png) 
 
