@@ -6,7 +6,7 @@ Qué haremos hoy:
 - Configuración del sistema
 - Toma de contacto con el terminal
 
-### 09:30 (1:30 h) Teoría  
+### 09:30 (1h 30min) Teoría  
 
 - Repaso
 
