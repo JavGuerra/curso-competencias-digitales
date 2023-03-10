@@ -96,3 +96,5 @@ WSL2
 https://www.adslzone.net/esenciales/windows/linux-subsistema-windows/
 
 ### 13:30 finalización de la sesión
+
+[Índice](../README.md)

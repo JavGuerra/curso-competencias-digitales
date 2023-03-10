@@ -56,3 +56,5 @@ https://es.wikipedia.org/wiki/VirtualBox
     [https://eltamiz.com/elcedazo/series/historia-de-un-viejo-informatico/](https://eltamiz.com/elcedazo/series/historia-de-un-viejo-informatico/)   
 
 ### 13:30 finalización de la sesión
+
+[Índice](../README.md)
