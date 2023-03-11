@@ -32,7 +32,7 @@ Qué haremos hoy:
 **Capas del modelo TCP/IP**:  
 4. Aplicación: HTTP  
 3. Transporte: TCP / UDP  
-2. Red: IP
+2. Red: IP  
 1. Acceso al medio: MAC  
 
 ![Direccionamiento IP](../recursos/ip.png) 
