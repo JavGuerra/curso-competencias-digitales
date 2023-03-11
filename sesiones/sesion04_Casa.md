@@ -20,7 +20,7 @@ Qué haremos hoy:
 - DNS https://es.wikipedia.org/wiki/Sistema_de_nombres_de_dominio
 - Otros https://es.wikipedia.org/wiki/Familia_de_protocolos_de_internet  
 
-3. La red local
+3. Red privada
 - Red privada https://es.wikipedia.org/wiki/Red_privada
 - Router https://es.wikipedia.org/wiki/Router  
 - Punto de acceso inalámbrico https://es.wikipedia.org/wiki/Punto_de_acceso_inal%C3%A1mbrico  
@@ -33,7 +33,7 @@ Qué haremos hoy:
 4. Aplicación: HTTP  
 3. Transporte: TCP / UDP  
 2. Red: IP  
-1. Acceso al medio: MAC  
+1. Acceso al medio: MAC.  
 
 ![Direccionamiento IP](../recursos/ip.png) 
 
