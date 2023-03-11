@@ -11,33 +11,22 @@ Qué haremos hoy:
 - Repaso
 
 1. Estructura de Internet
-- IP  
-https://es.wikipedia.org/wiki/Direcci%C3%B3n_IP  
-- Direccionamiento y enrutamiento
-https://es.wikipedia.org/wiki/Protocolo_de_internet  
+- IP https://es.wikipedia.org/wiki/Direcci%C3%B3n_IP  
+- Direccionamiento y enrutamiento https://es.wikipedia.org/wiki/Protocolo_de_internet  
 
 
 2. Protocolos de Internet (TCP/IP, otros)  
-- TCP/IP
-https://es.wikipedia.org/wiki/Modelo_TCP/IP  
-- HTTP
-https://es.wikipedia.org/wiki/Protocolo_de_transferencia_de_hipertexto  
-- DNS  
-https://es.wikipedia.org/wiki/Sistema_de_nombres_de_dominio
-- Otros
-https://es.wikipedia.org/wiki/Familia_de_protocolos_de_internet  
+- TCP/IP https://es.wikipedia.org/wiki/Modelo_TCP/IP  
+- HTTP https://es.wikipedia.org/wiki/Protocolo_de_transferencia_de_hipertexto  
+- DNS https://es.wikipedia.org/wiki/Sistema_de_nombres_de_dominio
+- Otros https://es.wikipedia.org/wiki/Familia_de_protocolos_de_internet  
 
 3. La red local
-- Red privada  
-https://es.wikipedia.org/wiki/Red_privada
-- Router  
-https://es.wikipedia.org/wiki/Router  
-- Punto de acceso inalámbrico  
-https://es.wikipedia.org/wiki/Punto_de_acceso_inal%C3%A1mbrico  
-- DHCP  
-https://es.wikipedia.org/wiki/Protocolo_de_configuraci%C3%B3n_din%C3%A1mica_de_host  
-- Puerta de enlace
-https://es.wikipedia.org/wiki/Puerta_de_enlace  
+- Red privada https://es.wikipedia.org/wiki/Red_privada
+- Router https://es.wikipedia.org/wiki/Router  
+- Punto de acceso inalámbrico https://es.wikipedia.org/wiki/Punto_de_acceso_inal%C3%A1mbrico  
+- DHCP https://es.wikipedia.org/wiki/Protocolo_de_configuraci%C3%B3n_din%C3%A1mica_de_host  
+- Puerta de enlace https://es.wikipedia.org/wiki/Puerta_de_enlace  
 
 **Resumen**  
 
