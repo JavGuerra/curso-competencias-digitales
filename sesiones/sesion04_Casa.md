@@ -14,8 +14,7 @@ Qué haremos hoy:
 - IP https://es.wikipedia.org/wiki/Direcci%C3%B3n_IP  
 - Direccionamiento y enrutamiento https://es.wikipedia.org/wiki/Protocolo_de_internet  
 
-
-2. Protocolos de Internet (TCP/IP, otros)  
+2. Protocolos de Internet  
 - TCP/IP https://es.wikipedia.org/wiki/Modelo_TCP/IP  
 - HTTP https://es.wikipedia.org/wiki/Protocolo_de_transferencia_de_hipertexto  
 - DNS https://es.wikipedia.org/wiki/Sistema_de_nombres_de_dominio
