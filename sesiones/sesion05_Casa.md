@@ -31,7 +31,7 @@ https://es.wikipedia.org/wiki/Ethernet
 https://es.wikipedia.org/wiki/Wifi  
 
 **Recomendaciones de material complementario para divertirse:**  
-Libro: Redes de computadoras  
+Libro: Redes de computadoras (1981)  
 https://openlibrary.org/books/OL24657684M/Redes_de_Computadoras  
 
 ### 11:30 descanso (30 min)  
