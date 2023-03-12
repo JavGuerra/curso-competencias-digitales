@@ -19,7 +19,7 @@ https://community.fs.com/es/blog/tcpip-vs-osi-whats-the-difference-between-the-t
 3. Nodo  
 https://es.wikipedia.org/wiki/Nodo_(inform%C3%A1tica)  
 
-4. Localhost  
+4. Localhost (hacer ping)  
 https://es.wikipedia.org/wiki/Localhost  
 
 5. Redes locales  
