@@ -13,13 +13,16 @@ Qué haremos hoy:
 1. LAN, MAN, WAN, otras...  
 https://community.fs.com/es/blog/lan-vs-man-vs-wan-whats-the-difference.html  
 
-2. Modelo OSI vs TCP/IP  
+2. Modelo OSI vs. TCP/IP (Concepto general)  
 https://community.fs.com/es/blog/tcpip-vs-osi-whats-the-difference-between-the-two-models.html  
 
 3. Nodo  
 https://es.wikipedia.org/wiki/Nodo_(inform%C3%A1tica)  
 
-4. Redes locales  
+4. Localhost  
+https://es.wikipedia.org/wiki/Localhost  
+
+5. Redes locales  
 - Control de acceso al medio (MAC)  
 https://es.wikipedia.org/wiki/Control_de_acceso_al_medio  
 - Ethernet (cableado, velocidad)  
