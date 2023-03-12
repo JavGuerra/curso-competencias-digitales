@@ -5,7 +5,11 @@
 - [Sesión 1: SOS](sesiones/sesion01_SOS.md)
 - [Sesión 2: Sabores](sesiones/sesion02_Sabores.md)
 - [Sesión 3: Ruta](sesiones/sesion03_Ruta.md)
-- [Sesión 4: Casa](sesiones/sesion04_Casa.md)
+- [Sesión 4: Mundo](sesion04_Mundo.md)
+
+## Semana 2
+
+- [Sesión 5: Casa](sesion05_Casa.md)
 
 ## Acerca de
 Materiales para el módulo II del curso recopilados por [Javier Guerra](https://javguerra.github.io/).

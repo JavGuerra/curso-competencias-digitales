@@ -1,10 +1,9 @@
-# Sesión 4: «Casa»
+# Sesión 4: «Mundo»
 
 Qué haremos hoy:
 - Repaso
 - Teoría
 - Configuración del sistema
-- Toma de contacto con el terminal
 
 ### 09:30 (1h 30min) Teoría  
 
