@@ -11,6 +11,7 @@
 
 - [Sesión 5: Casa](sesiones/sesion05_Casa.md)
 - [Sesión 6: Data](sesiones/sesion06_Data.md)
+- [Sesión 7: Relaciones](sesiones/sesion07_Relaciones.md)
 
 ## Acerca de
 Materiales para el módulo II del curso recopilados por [Javier Guerra](https://javguerra.github.io/).
