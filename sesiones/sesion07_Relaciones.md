@@ -6,7 +6,15 @@ Qué haremos hoy:
 
 ### 09:30 (1h 30min) Teoría  
 
-- Estructuras de datos: Introducción a los conceptos de relacional y documental.  
+![BBDD](../recursos/bbdd.png)
+
+- Relaciones (número de entidades con las que se relaciona una entidad)  
+**1:1** uno a uno
+**1:n** uno a varios
+**n:1** varios a uno
+**n:m** varios a varios
+
+- Estructuras de datos: conceptos de relacional y documental.  
 https://es.wikipedia.org/wiki/Base_de_datos_relacional  
 https://es.wikipedia.org/wiki/Base_de_datos_documental  
 https://es.wikipedia.org/wiki/Sistema_de_gesti%C3%B3n_de_bases_de_datos  
