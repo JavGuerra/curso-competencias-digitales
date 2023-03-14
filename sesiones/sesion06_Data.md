@@ -16,7 +16,7 @@ https://es.wikipedia.org/wiki/Software_propietario
 - Licencias de software (GNU, GPL, MIT, BSD...)  
 https://es.wikipedia.org/wiki/Licencia_de_software  
 
-- Licencias de código
+- Licencias de contenido  
 https://creativecommons.org/licenses/?lang=es_ES  
 
 Ejercicio: ejemplos de código abierto y de contenidos libres  
