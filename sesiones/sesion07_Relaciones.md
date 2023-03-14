@@ -10,7 +10,7 @@ Qué haremos hoy:
 
 - Relaciones (número de entidades con las que se relaciona una entidad)  
 | Tipo | Definición |
-|:--------|:----------|
+| --- | --- |
 | **1:1** | Uno a uno |
 | **1:n** | Uno a varios |
 | **n:1** | Varios a uno |
