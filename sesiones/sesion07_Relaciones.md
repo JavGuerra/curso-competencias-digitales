@@ -9,10 +9,12 @@ Qué haremos hoy:
 ![BBDD](../recursos/bbdd.png)
 
 - Relaciones (número de entidades con las que se relaciona una entidad)  
-**1:1** uno a uno
-**1:n** uno a varios
-**n:1** varios a uno
-**n:m** varios a varios
+| Tipo | Definición |
+|:--------|:----------|
+| **1:1** | Uno a uno |
+| **1:n** | Uno a varios |
+| **n:1** | Varios a uno |
+| **n:m** | Varios a varios |
 
 - Estructuras de datos: conceptos de relacional y documental.  
 https://es.wikipedia.org/wiki/Base_de_datos_relacional  
