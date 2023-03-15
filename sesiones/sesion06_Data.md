@@ -33,7 +33,6 @@ https://openlibrary.org/works/OL17856609W/Dise%C3%B1o_e_implementaci%C3%B3n_de_b
 
 ### 11:50 (1h 30min) Práctica
 
-- Actualizaciones del sistema
 - Aplicaciones instaladas en el sistema
 
 ### 13:30 finalización de la sesión
