@@ -37,6 +37,9 @@ https://www.inesem.es/revistadigital/informatica-y-tics/los-gestores-de-bases-de
 **Recomendaciones de material complementario para divertirse:**  
 Aprende SQL desde cero  
 https://www.sql-easy.com/es/  
+DB Browser for SQLite  
+https://sqlitebrowser.org/
+[ejemplo.sqlite](../recursos/ejemplo.sqlite)
 
 ### 11:30 descanso (30 min)  
 
