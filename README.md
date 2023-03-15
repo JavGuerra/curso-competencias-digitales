@@ -1,7 +1,7 @@
 # Apuntes para el alumnado
 
-Materiales del bloque II del curso de PLD para la [Fundación GoodJob](https://www.fundaciongoodjob.org/).  
-Profesor: [Javier Guerra](https://javguerra.github.io/).  
+Materiales del bloque II del curso de PLD para la [Fundación GoodJob](https://www.fundaciongoodjob.org/)  
+Profesor: [Javier Guerra](https://javguerra.github.io/)  
 Marzo 2023  
 
 ## Índice
