@@ -48,6 +48,7 @@ https://sqlitebrowser.org/
 - La shell bash  
 - https://www.hostinger.es/tutoriales/linux-comandos  
 - Privilegios del sistema  
+- Actualizaciones  
 
 ### 13:30 finalización de la sesión
 
