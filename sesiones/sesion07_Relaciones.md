@@ -46,7 +46,7 @@ https://sqlitebrowser.org/
 ### 11:50 (1h 30min) Práctica
 
 - La shell bash  
-- https://www.hostinger.es/tutoriales/linux-comandos  
+- https://axarnet.es/blog/comandos-linux
 - Privilegios del sistema  
 - Actualizaciones  
 
