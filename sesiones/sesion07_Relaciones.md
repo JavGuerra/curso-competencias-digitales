@@ -47,8 +47,6 @@ https://sqlitebrowser.org/
 
 - La shell bash  
 - https://axarnet.es/blog/comandos-linux
-- Privilegios del sistema  
-- Actualizaciones  
 
 ### 13:30 finalización de la sesión
 
