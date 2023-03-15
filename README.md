@@ -1,6 +1,6 @@
 # Índice
 
-Materiales para el módulo II del curso  
+Materiales del módulo II del curso de PLD para la Fundación GoodJob.  
 Profesor: [Javier Guerra](https://javguerra.github.io/).  
 Marzo 2023  
 
