@@ -44,7 +44,6 @@ Configuración:
 - Papelera
 - Ayuda
 - Instalar GUFW Firewall
-- Actualizaciones del sistema
 
 ### 13:30 finalización de la sesión
 
