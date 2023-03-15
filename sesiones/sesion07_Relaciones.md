@@ -45,9 +45,9 @@ https://sqlitebrowser.org/
 
 ### 11:50 (1h 30min) Práctica
 
-- La shell bash
-- Privilegios del sistema
-- Actualización del sistema
+- La shell bash  
+- https://www.hostinger.es/tutoriales/linux-comandos  
+- Privilegios del sistema  
 
 ### 13:30 finalización de la sesión
 
