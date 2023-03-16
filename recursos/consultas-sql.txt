@@ -1,0 +1,37 @@
+SELECT * FROM TIPO;
+
+SELECT * FROM SGBD;
+
+SELECT nombre FROM SGBD;
+
+SELECT * FROM SGBD, TIPO;
+
+SELECT *
+FROM SGBD, TIPO
+WHERE TIPO.id = id_tipo;
+
+SELECT nombre, tipo
+FROM SGBD, TIPO
+WHERE TIPO.id = id_tipo;
+
+SELECT nombre, tipo
+FROM SGBD, TIPO
+WHERE TIPO.id = id_tipo
+AND tipo = "SQL";
+
+SELECT nombre, tipo
+FROM SGBD, TIPO
+WHERE TIPO.id = id_tipo
+AND nombre = "Casandra";
+
+SELECT nombre, tipo
+FROM SGBD, TIPO
+WHERE TIPO.id = id_tipo
+AND nombre LIKE "%SQL%";
+
+SELECT nombre, tipo
+FROM SGBD, TIPO
+WHERE TIPO.id = id_tipo
+AND tipo = "SQL"
+ORDER BY nombre;
+

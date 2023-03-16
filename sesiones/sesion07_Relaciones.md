@@ -39,7 +39,7 @@ Aprende SQL desde cero
 https://www.sql-easy.com/es/  
 DB Browser for SQLite  
 https://sqlitebrowser.org/  
-[ejemplo.sqlite](../recursos/ejemplo.sqlite)
+Ejemplo BBDD con una tabla: [ejemplo.sqlite](../recursos/ejemplo.sqlite)
 
 ### 11:30 (30 min) Descanso
 

@@ -12,7 +12,8 @@ Qué haremos hoy:
 **Recomendaciones de material complementario para divertirse:**  
 Aprende SQL desde cero  
 https://www.sql-easy.com/es/  
-[sgbd.sqlite](../recursos/sgbd.sqlite)  
+Ejemplo BBDD con dos tablas: [sgbd.sqlite](../recursos/sgbd.sqlite)  
+Fichero de consultas: [consultas-sql.txt](../recursos/consultas-sql.txt)  
 Libro: El hombre que calculaba (1938)  
 https://openlibrary.org/books/OL32770332M/El_hombre_que_calculaba  
 
