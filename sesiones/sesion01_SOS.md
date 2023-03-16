@@ -1,6 +1,6 @@
 # Sesión 1: «SOS»
 
-### 09:30 (30min) presentaciones  
+### 09:30 (30min) Presentaciones  
 
 1.  Objetivos  y contenidos del bloque II
 
@@ -32,7 +32,7 @@
     - Computador mágico  
     [https://eltamiz.com/elcedazo/series/computador-magico/](https://eltamiz.com/elcedazo/series/computador-magico/)  
 
-### 11:30 descanso (30 min)  
+### 11:30 (30 min) Descanso
 
 ### 12 (1h 30min) Práctica
 

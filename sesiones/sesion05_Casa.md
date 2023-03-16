@@ -34,7 +34,7 @@ https://es.wikipedia.org/wiki/Wifi
 Libro: Redes de computadoras (1981)  
 https://openlibrary.org/books/OL24657684M/Redes_de_Computadoras  
 
-### 11:30 descanso (30 min)  
+### 11:30 (30 min) Descanso
 
 ### 11:50 (1h 30min) Práctica
 

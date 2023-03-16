@@ -12,14 +12,15 @@ Qué haremos hoy:
 **Recomendaciones de material complementario para divertirse:**  
 Aprende SQL desde cero  
 https://www.sql-easy.com/es/  
-Libro: El hombre que calculaba (1993)  
+[sgbd.sqlite](../recursos/sgbd.sqlite)  
+Libro: El hombre que calculaba (1938)  
 https://openlibrary.org/books/OL32770332M/El_hombre_que_calculaba  
 
-### 11:30 descanso (30 min)  
+### 11:30 (30 min) Descanso
 
 ### 11:50 (1h 30min) Práctica
 
-- https://axarnet.es/blog/comandos-linux
+- La terminal de Linux: https://axarnet.es/blog/comandos-linux
 - Privilegios del sistema  
 - Actualizaciones  
 

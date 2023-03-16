@@ -41,9 +41,9 @@ Qué haremos hoy:
 https://youtu.be/Zc1tZ8JsZvg  
 - Libro: El mundo digital. Nicholas Negroponte (1995)  
 - Libro: Camino al futuro. Bill Gates (1997)  
-- Libro: Hipercultura visual, Arturo Colorado Castellary (1997)  
+- Libro: Hipercultura visual. Arturo Colorado Castellary (1997)  
 
-### 11:30 descanso (30 min)  
+### 11:30 (30 min) Descanso
 
 ### 11:50 (1h 30min) Práctica
 
