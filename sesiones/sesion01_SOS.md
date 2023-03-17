@@ -8,7 +8,7 @@
 	1. Teoría: sistemas
 	2. Sistemas Operativos Linux: Ubuntu
   
-### 10:00 (1h) Teoría
+### 10:00 (1h 30min) Teoría
 
 1.  Sistemas (definición, propósito y ejemplos)
     

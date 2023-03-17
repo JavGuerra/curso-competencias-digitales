@@ -4,7 +4,7 @@ Qué haremos hoy:
 - Teoría
 - Práctica
 
-### 09:30 (1h 30min) Teoría  
+### 09:30 (2h) Teoría 
 
 ![BBDD](../recursos/bbdd.png)
 
@@ -30,11 +30,10 @@ https://es.wikipedia.org/wiki/SQL
 - SQL vs. NoSQL
 https://openwebinars.net/blog/sql-vs-nosql-comparativa-para-elegir-correctamente/  
 
-- SGBD: MySQL MariaDB PostgreSQL, SQLite, Oracle, Microsoft SQL Server
-MongoDB, Redis, Casandra  
+- SGBD: MySQL, MariaDB, PostgreSQL, SQLite, Oracle, Microsoft SQL Server, MongoDB, Redis, Casandra.  
 https://www.inesem.es/revistadigital/informatica-y-tics/los-gestores-de-bases-de-datos-mas-usados/  
 
-**Recomendaciones de material complementario para divertirse:**  
+**Material complementario:**  
 Aprende SQL desde cero  
 https://www.sql-easy.com/es/  
 DB Browser for SQLite  

@@ -4,11 +4,11 @@ Qué haremos hoy:
 - Teoría
 - Práctica
 
-### 09:30 (1h 30min) Teoría  
+### 09:30 (2h) Teoría 
 
 1. Ejercicios SQL
 
-**Recomendaciones de material complementario para divertirse:**  
+**Material complementario:**  
 Aprende SQL desde cero  
 https://www.sql-easy.com/es/  
 Ejemplo BBDD con dos tablas: [sgbd.sqlite](../recursos/sgbd.sqlite)  

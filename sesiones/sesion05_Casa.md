@@ -6,7 +6,7 @@ Qué haremos hoy:
 - Teoría
 - Configuración del sistema
 
-### 09:30 (1h 30min) Teoría  
+### 09:30 (2h) Teoría 
 
 - Repaso
 

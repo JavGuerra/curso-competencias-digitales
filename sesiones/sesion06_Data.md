@@ -4,7 +4,7 @@ Qué haremos hoy:
 - Teoría
 - Práctica
 
-### 09:30 (1h 30min) Teoría  
+### 09:30 (2h) Teoría 
 
 1. Software  
 

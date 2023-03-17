@@ -5,7 +5,7 @@ Qué haremos hoy:
 - Teoría
 - Arrancar Ubuntu
 
-### 09:30 (1h 30min) Teoría  
+### 09:30 (2h) Teoría  
 
 Repaso de algunas cosas que vimos ayer: Puertos y controladores.  
 Material complementario: [componentes de un ordenador (PDF)](../recursos/componentes-ordenador.pdf).
