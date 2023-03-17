@@ -61,7 +61,9 @@ HP: https://support.hp.com/es-es/document/ish_5637144-5698274-16
 **On-line**  
 AVISO: La página incluye publicidad.  
 Sólo en caso en el que no tengas otra opción:
-https://www.onworks.net/os-distributions/ubuntu-based/free-ubuntu-online-version-20
+https://www.onworks.net/os-distributions/ubuntu-based/free-ubuntu-online-version-20  
 
 **WSL2**  
-https://www.adslzone.net/esenciales/windows/linux-subsistema-windows/
+https://www.adslzone.net/esenciales/windows/linux-subsistema-windows/  
+
+[Índice](../README.md)

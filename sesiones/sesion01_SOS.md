@@ -36,7 +36,7 @@
 
 ### 12 (1h 30min) Práctica
 
-Descargar e instalar VirtualBox y configurar una máquina virtual con Ubuntu.
+Descargar e instalar VirtualBox y configurar una máquina virtual con Ubuntu.  
 [Ver instrucciones](../recursos/virtualbox.md)
 
 ### 13:30 finalización de la sesión
