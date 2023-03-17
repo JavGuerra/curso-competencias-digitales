@@ -7,23 +7,18 @@ Qué haremos hoy:
 ### 09:30 (1h 30min) Teoría  
 
 1. Ejercicios SQL
-2. Matemáticas esenciales
 
 **Recomendaciones de material complementario para divertirse:**  
 Aprende SQL desde cero  
 https://www.sql-easy.com/es/  
 Ejemplo BBDD con dos tablas: [sgbd.sqlite](../recursos/sgbd.sqlite)  
 Fichero de consultas: [consultas-sql.txt](../recursos/consultas-sql.txt)  
-Libro: El hombre que calculaba (1938)  
-https://openlibrary.org/books/OL32770332M/El_hombre_que_calculaba  
 
 ### 11:30 (30 min) Descanso
 
-### 11:50 (1h 30min) Práctica
+### 12:00 (1h 30min) Práctica
 
-- La terminal de Linux: https://axarnet.es/blog/comandos-linux
-- Privilegios del sistema  
-- Actualizaciones  
+- Repaso de comandos
 
 ### 13:30 finalización de la sesión
 

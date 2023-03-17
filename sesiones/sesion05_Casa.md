@@ -36,7 +36,7 @@ https://openlibrary.org/books/OL24657684M/Redes_de_Computadoras
 
 ### 11:30 (30 min) Descanso
 
-### 11:50 (1h 30min) Práctica
+### 12:00 (1h 30min) Práctica
 
 Configuración:
 - Fecha y hora

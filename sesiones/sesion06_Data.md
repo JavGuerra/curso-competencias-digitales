@@ -31,7 +31,7 @@ https://openlibrary.org/works/OL17856609W/Dise%C3%B1o_e_implementaci%C3%B3n_de_b
 
 ### 11:30 (30 min) Descanso
 
-### 11:50 (1h 30min) Práctica
+### 12:00 (1h 30min) Práctica
 
 - Aplicaciones instaladas en el sistema
 

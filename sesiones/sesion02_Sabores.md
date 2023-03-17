@@ -24,7 +24,7 @@ Material complementario: [componentes de un ordenador (PDF)](../recursos/compone
 
 ### 11:30 (30 min) Descanso
 
-### 11:50 (1h 30min) Teoría / Práctica
+### 12:00 (1h 30min) Teoría / Práctica
 
 5.  Volviendo a los «sistemas»: El sistema operativo  
     [https://es.wikipedia.org/wiki/Sistema_operativo](https://es.wikipedia.org/wiki/Sistema_operativo)

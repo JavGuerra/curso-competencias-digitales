@@ -43,7 +43,7 @@ Ejemplo BBDD con una tabla: [ejemplo.sqlite](../recursos/ejemplo.sqlite)
 
 ### 11:30 (30 min) Descanso
 
-### 11:50 (1h 30min) Práctica
+### 12:00 (1h 30min) Práctica
 
 - La shell bash  
 - La terminal de Linux: https://axarnet.es/blog/comandos-linux

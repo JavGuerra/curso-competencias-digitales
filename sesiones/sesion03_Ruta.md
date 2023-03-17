@@ -34,7 +34,7 @@ https://www.filmaffinity.com/es/film425311.html
 
 ### 11:30 (30 min) Descanso
 
-### 11:50 (1h 30min) Práctica
+### 12:00 (1h 30min) Práctica
 
 - Castellanizar Ubuntu
 	- Configuración -> Región e idioma -> Instalar o eliminar idiomas
