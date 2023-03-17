@@ -20,5 +20,9 @@ Marzo 2023
 - [Sesión 7: Relaciones](sesiones/sesion07_Relaciones.md)
 - [Sesión 8: Consultas](sesiones/sesion08_Consultas.md)
 
+## Instalaciones
+
+- [VirtualBox + Ubuntu](recursos/virtualbox.md)
+
 ## Licencia
 Sobre el contenido de la web: [(CC) BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/es/)  
