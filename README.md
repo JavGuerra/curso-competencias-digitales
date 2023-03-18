@@ -29,6 +29,7 @@ Marzo 2023
 ## Instalaciones
 
 - [VirtualBox + Ubuntu](recursos/virtualbox.md)
+- [Docker + compose](recursos/docker.md)
 
 ## Licencia
 Sobre el contenido de la web: [(CC) BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/es/)  

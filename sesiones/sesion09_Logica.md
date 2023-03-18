@@ -41,6 +41,10 @@ https://www.softzone.es/linux/tutoriales/permisos-archivos-directorios-linux/
 	- lectura (r), escritura (w), ejecución (x)
 - Actualizaciones  
 	- paquetes: https://es.wikipedia.org/wiki/Formatos_de_paquetes_en_Linux  
+	- actualizar con:
+		`sudo apt update`
+		`sudo apt upgrade`
+- Otros formatos de distribución de software:
 	- appimage: https://es.wikipedia.org/wiki/AppImage  
 	- snap: https://es.wikipedia.org/wiki/Snap_(gestor_de_paquetes)  
 	- flatpak: https://es.wikipedia.org/wiki/Flatpak  
@@ -48,8 +52,8 @@ https://www.softzone.es/linux/tutoriales/permisos-archivos-directorios-linux/
 	- https://es.wikipedia.org/wiki/Virtualizaci%C3%B3n_a_nivel_de_sistema_operativo
 	- https://es.wikipedia.org/wiki/Docker_(software)
 
-- Ejercicio: Instalar Docker + Docker Composer en Ubuntu.
-	- Instrucciones de instalación
+- Ejercicio: Instalar Docker + Docker-compose en Ubuntu.
+	- [Instrucciones de instalación](../recursos/docker.md)  
 - Ejercicio (opcional): Instalar Wordpress con Docker y Docker Composer en Ubuntu: 
 	- Video: https://youtu.be/Hxwkrpw4TWg  
 	- Código: https://github.com/docker-compose-marlon/wordpress-docker-compose  
