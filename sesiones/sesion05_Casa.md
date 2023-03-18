@@ -1,12 +1,13 @@
 # Sesión 5: «Casa»
 
 Qué haremos hoy:
-- Corrección del ejercicio de la semana pasada
-- Repaso
+- Corrección del evolutivo de la semana pasada
 - Teoría
-- Configuración del sistema
+- Práctica
 
-### 09:30 (2h) Teoría 
+### 9:30 (30min) Corrección
+
+### 10:00 (1h 30min) Teoría 
 
 - Repaso
 

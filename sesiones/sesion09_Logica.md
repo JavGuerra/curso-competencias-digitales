@@ -1,10 +1,13 @@
 # Sesión 9: «Lógica»
 
 Qué haremos hoy:
+- Corrección del evolutivo de la semana pasada
 - Teoría
 - Práctica
 
-### 09:30 (2h) Teoría 
+### 9:30 (30min) Corrección
+
+### 10:00 (1h 30min) Teoría 
 
 1. Datos y ciclo de vida de estos  
 - Datos: información (conocimiento), aprendizaje (conclusiones), estructura, visualización, conjunto de datos.  
@@ -12,9 +15,13 @@ https://es.wikipedia.org/wiki/Dato
 - Gestión: creación, almacenamiento, compartición y uso, archivado, supresión.  
 https://www.ibm.com/es-es/topics/data-lifecycle-management  
 
+Ejercicio: Debate. ¿Es fiable Wikipedia?
+
 2. Datos y toma de decisiones: algebra booleana (lógica binaria)  
 https://es.wikipedia.org/wiki/%C3%81lgebra_de_Boole  
 https://es.wikipedia.org/wiki/L%C3%B3gica_binaria  
+
+*Cuadro de operaciones con dos condiciones.*  
 
 | X | Y | AND | OR |   | X | Y | AND | OR |
 | :---: | :---: | :---: | :---: | :---:  | :---: | :---: | :---: | :---: |
@@ -22,8 +29,6 @@ https://es.wikipedia.org/wiki/L%C3%B3gica_binaria
 | 0 | 1 | 0 | 1 |   | F | V | F | V |
 | 1 | 0 | 0 | 1 |   | V | F | F | V |
 | 1 | 1 | 1 | 1 |   | V | V | V | V |
-
-*Cuadro de operaciones con dos condiciones.*  
 
 3. Ejercicios de lógica booleana con uno, dos y más condicionales.  
 
