@@ -22,6 +22,7 @@ https://es.wikipedia.org/wiki/L%C3%B3gica_binaria
 | 0 | 1 | 0 | 1 |   | F | V | F | V |
 | 1 | 0 | 0 | 1 |   | V | F | F | V |
 | 1 | 1 | 1 | 1 |   | V | V | V | V |
+
 *Cuadro de operaciones con dos condiciones.*  
 
 3. Ejercicios de lógica booleana con uno, dos y más condicionales.  
