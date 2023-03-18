@@ -12,7 +12,7 @@ Marzo 2023
 - [Sesión 2: Sabores](sesiones/sesion02_Sabores.md)
 - [Sesión 3: Ruta](sesiones/sesion03_Ruta.md)
 - [Sesión 4: Mundo](sesiones/sesion04_Mundo.md)
-- [Evolutivo 1 (cerrado)](https://forms.gle/ir5t8YVfrrNiVY3Q7)
+- [Evolutivo 1 (*cerrado*)](https://forms.gle/ir5t8YVfrrNiVY3Q7)
 
 ### Semana 2
 
@@ -20,7 +20,11 @@ Marzo 2023
 - [Sesión 6: Data](sesiones/sesion06_Data.md)
 - [Sesión 7: Relaciones](sesiones/sesion07_Relaciones.md)
 - [Sesión 8: Consultas](sesiones/sesion08_Consultas.md)
-- [Evolutivo 2 (hasta 23:59 de hoy)](https://forms.gle/QwtVscB7PLvxdcw96)
+- [Evolutivo 2 (*cerrado*)](https://forms.gle/QwtVscB7PLvxdcw9)
+
+### Semana 3
+
+- [Sesión 9: Lógica](sesiones/sesion09_Logica.md)
 
 ## Instalaciones
 
