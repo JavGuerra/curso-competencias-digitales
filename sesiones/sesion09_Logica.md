@@ -10,7 +10,7 @@ Qué haremos hoy:
 ### 10:00 (1h 30min) Teoría 
 
 1. Datos y ciclo de vida de estos  
-- Datos: información (conocimiento), aprendizaje (conclusiones), estructura, visualización, conjunto de datos.  
+- Datos: información (conocimiento), aprendizaje (conclusiones), tipo, estructura, visualización, conjunto de datos.  
 https://es.wikipedia.org/wiki/Dato  
 - Gestión: creación, almacenamiento, compartición y uso, archivado, supresión.  
 https://www.ibm.com/es-es/topics/data-lifecycle-management  
