@@ -46,9 +46,9 @@ https://www.softzone.es/linux/tutoriales/permisos-archivos-directorios-linux/
 	- lectura (r), escritura (w), ejecución (x)
 - Actualizaciones  
 	- paquetes: https://es.wikipedia.org/wiki/Formatos_de_paquetes_en_Linux  
-	- actualizar con:
-		`sudo apt update`
-		`sudo apt upgrade`
+	- actualizar con:  
+		`sudo apt update`  
+		`sudo apt upgrade`  
 - Otros formatos de distribución de software:
 	- appimage: https://es.wikipedia.org/wiki/AppImage  
 	- snap: https://es.wikipedia.org/wiki/Snap_(gestor_de_paquetes)  
