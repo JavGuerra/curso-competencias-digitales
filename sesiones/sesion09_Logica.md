@@ -54,9 +54,6 @@ https://www.softzone.es/linux/tutoriales/permisos-archivos-directorios-linux/
 
 - Ejercicio: Instalar Docker + Docker-compose en Ubuntu.
 	- [Instrucciones de instalación](../recursos/docker.md)  
-- Ejercicio (opcional): Instalar Wordpress con Docker y Docker Composer en Ubuntu: 
-	- Video: https://youtu.be/Hxwkrpw4TWg  
-	- Código: https://github.com/docker-compose-marlon/wordpress-docker-compose  
 
 ### 13:30 finalización de la sesión
 
