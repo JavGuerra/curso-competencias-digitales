@@ -34,7 +34,7 @@ Probar docker-compose:
 
 ## Ejercicio: Instalar Wordpress (opcional)
 
-Instrucciones para instalar **Wordpress** con Docker y Docker-compose en Ubuntu: 
+Instrucciones para instalar **Wordpress** con Docker y Docker-compose en Ubuntu:   
 	- Video paso a paso: https://youtu.be/Hxwkrpw4TWg  
 	- Código: https://github.com/docker-compose-marlon/wordpress-docker-compose  
 
