@@ -38,7 +38,7 @@ Libro: Matemáticas para programadores. Sistemas de numeración y Aritmética bi
 https://www.softzone.es/linux/tutoriales/permisos-archivos-directorios-linux/  
 	- Todo es un fichero en Linux, también los dispositivos
 	- usuario, grupo, otro
-	- lectura, escritura, ejecución
+	- lectura (r), escritura (w), ejecución (x)
 - Actualizaciones  
 	- paquetes: https://es.wikipedia.org/wiki/Formatos_de_paquetes_en_Linux  
 	- appimage: https://es.wikipedia.org/wiki/AppImage  
@@ -47,6 +47,12 @@ https://www.softzone.es/linux/tutoriales/permisos-archivos-directorios-linux/
 - Contenedores Docker  
 	- https://es.wikipedia.org/wiki/Virtualizaci%C3%B3n_a_nivel_de_sistema_operativo
 	- https://es.wikipedia.org/wiki/Docker_(software)
+
+- Ejercicio: Instalar Docker + Docker Composer en Ubuntu.
+	- Instrucciones de instalación
+- Ejercicio (opcional): Instalar Wordpress con Docker y Docker Composer en Ubuntu: 
+	- Video: https://youtu.be/Hxwkrpw4TWg  
+	- Código: https://github.com/docker-compose-marlon/wordpress-docker-compose  
 
 ### 13:30 finalización de la sesión
 
