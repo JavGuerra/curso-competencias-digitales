@@ -20,7 +20,7 @@ Marzo 2023
 - [Sesión 6: Data](sesiones/sesion06_Data.md)
 - [Sesión 7: Relaciones](sesiones/sesion07_Relaciones.md)
 - [Sesión 8: Consultas](sesiones/sesion08_Consultas.md)
-- [Evolutivo 2 (*cerrado*)](https://forms.gle/QwtVscB7PLvxdcw9)
+- [Evolutivo 2 (*cerrado*)](https://forms.gle/fQ8cRt965VPVHYaE7)
 
 ### Semana 3
 
