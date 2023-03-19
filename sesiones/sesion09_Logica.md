@@ -41,22 +41,24 @@ Libro: Matemáticas para programadores. Sistemas de numeración y Aritmética bi
 
 - Privilegios básicos del sistema  
 https://www.softzone.es/linux/tutoriales/permisos-archivos-directorios-linux/  
-	- Todo es un fichero en Linux, también los dispositivos
-	- usuario, grupo, otro
-	- lectura (r), escritura (w), ejecución (x)
+	- Todo es un fichero en Linux, también los dispositivos  
+	- usuario, grupo, otro  
+	- lectura (r), escritura (w), ejecución (x)  
+
 - Actualizaciones  
 	- paquetes: https://es.wikipedia.org/wiki/Formatos_de_paquetes_en_Linux  
 	- actualizar con:  
 		`sudo apt update`  
 		`sudo apt upgrade`  
-- Otros formatos de distribución de software:
-	- appimage: https://es.wikipedia.org/wiki/AppImage  
-	- snap: https://es.wikipedia.org/wiki/Snap_(gestor_de_paquetes)  
-	- flatpak: https://es.wikipedia.org/wiki/Flatpak  
+	- Otros formatos de distribución de software:
+		- appimage: https://es.wikipedia.org/wiki/AppImage  
+		- snap: https://es.wikipedia.org/wiki/Snap_(gestor_de_paquetes)  
+		- flatpak: https://es.wikipedia.org/wiki/Flatpak  
+
+- Emulación vs. Virtualización vs. Contenedores.  
 - Contenedores Docker  
-	- https://es.wikipedia.org/wiki/Virtualizaci%C3%B3n_a_nivel_de_sistema_operativo
-	- https://es.wikipedia.org/wiki/Docker_(software)
-- Emulación vs. Virtualización vs. Contenedores.
+	- https://es.wikipedia.org/wiki/Virtualizaci%C3%B3n_a_nivel_de_sistema_operativo  
+	- https://es.wikipedia.org/wiki/Docker_(software)  
 
 - Ejercicio: Instalar Docker + Docker-compose en Ubuntu.
 	- [Instrucciones de instalación](../recursos/docker.md)  
