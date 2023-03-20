@@ -37,5 +37,6 @@ Probar docker-compose:
 Instrucciones para instalar **Wordpress** con Docker y Docker-compose en Ubuntu:   
 	- Video paso a paso: https://youtu.be/Hxwkrpw4TWg  
 	- Código: https://github.com/docker-compose-marlon/wordpress-docker-compose  
+	Nota: es posible que, en algunos casos, sea necesario escalar privilegios para poder usar docker, empleando «sudo».
 
 [Índice](../README.md)
