@@ -63,7 +63,7 @@ https://www.softzone.es/linux/tutoriales/permisos-archivos-directorios-linux/
 
 - Ejercicio: Instalar Docker + Docker-compose en Ubuntu.
 	- [Instrucciones de instalación](../recursos/docker.md)  
-	- https://geekflare.com/es/docker-manage-containers/  
+	- [comandos-docker.txt](../recursos/comandos-docker.txt)
 
 ### 13:30 finalización de la sesión
 

@@ -1,0 +1,72 @@
+Mostrar las opciones de Docker
+docker
+
+Ver info sobre docker
+docker info
+
+Comprobar que todo ha ido bien. Lanzar el primer contenedor:
+docker run hello-world
+
+Buscar imágenes, por ejemplo, Ubuntu
+docker search ubuntu
+
+Una vez elegida la imagen, podemos bajarla
+docker pull ubuntu
+
+Ver las imágenes disponibles
+docker images
+
+Lanzar un contenedor con acceso a la shell (entraría en modo de comando)
+docker run -it ubuntu
+
+Mostrar los contenedores activos
+docker ps
+
+Mostrar los contenedores activos e inactivos
+docker ps -a
+
+Activar un contenedor (por su id)
+docker start id_contenedor
+
+Parar un contenedor (por su id)
+docker stop id_contenedor
+
+Borrar un contenedor (por su id)
+docker rm id_contenedor
+
+Borrar un contenedor sin pararlo antes (por su id)
+docker rm -f nombre_contenedor
+
+Imágenes
+--------
+
+Listar imágenes
+docker images -a
+
+Borrar una imagen (por su id)
+docker rmi id_imagen
+
+Borrar imagenes, contenedores, volúmenes y redes pendientes, osea, no asociados con un contenedor
+docker system prune
+
+Borra no sólo las pendientes, sino también las no utilizadas
+docker system prune -a
+
+Volúmenes
+---------
+
+Listar volúmenes
+docker volume ls
+
+Eliminar volúmenes pendientes
+docker volume prune
+
+Eliminar contenedor y su volumen
+docker rm -v container_name
+
+Docker compose
+--------------
+
+Ejecutar script
+docker-compose up -d
+
