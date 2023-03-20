@@ -59,6 +59,7 @@ https://www.softzone.es/linux/tutoriales/permisos-archivos-directorios-linux/
 - Contenedores Docker  
 	- https://es.wikipedia.org/wiki/Virtualizaci%C3%B3n_a_nivel_de_sistema_operativo  
 	- https://es.wikipedia.org/wiki/Docker_(software)  
+	- Imagen vs contenedor  
 
 - Ejercicio: Instalar Docker + Docker-compose en Ubuntu.
 	- [Instrucciones de instalación](../recursos/docker.md)  
