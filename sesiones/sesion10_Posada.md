@@ -16,6 +16,7 @@ https://letsencrypt.org/es/
 2. Servidor web  
 https://es.wikipedia.org/wiki/Servidor_web  
 - Proveedores web  
+- Mirar: TCP / UDP  
 - Protocolos http y https  
 - Estructura HTML (head y body)  
 - Cabecera HTTP y peticiones GET y POST  
@@ -41,7 +42,7 @@ https://learndigital.withgoogle.com/activate/course/cloud-computing
 ### 12:00 (1h 30min) Práctica
 
 1. Cloud  
-- Computación en la nube  
+- Computación en la nube: Definición, ventajas, inconvenientes.  
 https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube  
 - SaaS, PaaS, IaaS.  
 - Proveedores de servicios en la nube: AWS, Google Cloud, Azure, otros.  
