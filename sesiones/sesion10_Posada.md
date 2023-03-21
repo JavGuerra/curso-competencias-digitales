@@ -32,7 +32,7 @@ https://es.wikipedia.org/wiki/Servidor_web
 **Recomendaciones de material complementario para divertirse:**  
 Libro PDF: Cloud Computing, guía de aproximación para el empresario  
 https://www.incibe.es/sites/default/files/contenidos/guias/doc/guia-cloud-computing_0.pdf  
-Libro: Cloud computing, retor y oportunidades (2011)
+Libro: Cloud computing, retos y oportunidades (2011)
 https://dialnet.unirioja.es/servlet/libro?codigo=572562  
 Curso Cloud Computing de Google  
 https://learndigital.withgoogle.com/activate/course/cloud-computing  
@@ -41,7 +41,18 @@ https://learndigital.withgoogle.com/activate/course/cloud-computing
 
 ### 12:00 (1h 30min) Práctica
 
-1. Cloud  
+- Emulación vs. Virtualización vs. Contenedores.  
+
+1. Contenedores Docker  
+	- https://es.wikipedia.org/wiki/Virtualizaci%C3%B3n_a_nivel_de_sistema_operativo  
+	- https://es.wikipedia.org/wiki/Docker_(software)  
+	- Imagen vs contenedor  
+
+- Ejercicio: Instalar Docker + Docker-compose en Ubuntu.
+	- [Instrucciones de instalación](../recursos/docker.md)  
+	- [comandos-docker.txt](../recursos/comandos-docker.txt)
+
+2. Cloud  
 - Computación en la nube: Definición, ventajas, inconvenientes.  
 https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube  
 - SaaS, PaaS, IaaS.  

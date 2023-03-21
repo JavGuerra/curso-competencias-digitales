@@ -32,6 +32,24 @@ https://es.wikipedia.org/wiki/L%C3%B3gica_binaria
 | 1 | 1 | 1 | 1 |   | V | V | V | V |
 
 3. Ejercicios de lógica booleana con uno, dos y más condicionales.  
+Un ejemplo: La lotería.
+```
+millonario = false; // inicialmente no tenemos millones
+
+compar = true ó false; // elegir un único valor true o false
+acierto = true ó false;
+cambiar = true ó false;
+
+IF ((comprar AND acierto) AND cambiar) THEN millonario = true;
+```
+
+**Ejercicios alternativos**:  
+
+Ejercicio 1: Conversor de horarios de 24 a 12 horas.  
+hora = hora actual en formato 24h (0 a 23).  
+
+Ejercicio 2 Conversor de horario de 12 a 24 horas.  
+hora = hora actual en formato am o pm. (1 a 12 am/pm)  
 
 **Recomendaciones de material complementario para divertirse:**  
 Libro: Matemáticas para programadores. Sistemas de numeración y Aritmética binaria, William Barden J. (1986)
@@ -55,16 +73,6 @@ https://www.softzone.es/linux/tutoriales/permisos-archivos-directorios-linux/
 		- appimage: https://es.wikipedia.org/wiki/AppImage  
 		- snap: https://es.wikipedia.org/wiki/Snap_(gestor_de_paquetes)  
 		- flatpak: https://es.wikipedia.org/wiki/Flatpak  
-
-- Emulación vs. Virtualización vs. Contenedores.  
-- Contenedores Docker  
-	- https://es.wikipedia.org/wiki/Virtualizaci%C3%B3n_a_nivel_de_sistema_operativo  
-	- https://es.wikipedia.org/wiki/Docker_(software)  
-	- Imagen vs contenedor  
-
-- Ejercicio: Instalar Docker + Docker-compose en Ubuntu.
-	- [Instrucciones de instalación](../recursos/docker.md)  
-	- [comandos-docker.txt](../recursos/comandos-docker.txt)
 
 ### 13:30 finalización de la sesión
 
