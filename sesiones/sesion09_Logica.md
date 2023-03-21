@@ -37,11 +37,11 @@ Un ejemplo: La lotería.
 ```
 millonario = false; // inicialmente no tenemos millones
 
-compar = true ó false; // elegir un único valor true o false
-acierto = true ó false;
+compar  = true ó false; // elegir un único valor true o false
+acertar = true ó false;
 cambiar = true ó false;
 
-IF ((comprar AND acierto) AND cambiar) THEN millonario = true;
+IF ((comprar AND acertar) AND cambiar) THEN millonario = true;
 ```
 
 Ejemplo práctico: programa en JavaScript
