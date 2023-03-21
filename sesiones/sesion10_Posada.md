@@ -6,6 +6,8 @@ Qué haremos hoy:
 
 ### 09:30 (2h) Teoría 
 
+Corrección de los ejercicios de lógica propuestos.
+
 1. Dominio vs. URL (https://...)  
 https://es.wikipedia.org/wiki/Dominio_de_internet  
 - Dominios de nivel superior y subdominios  
