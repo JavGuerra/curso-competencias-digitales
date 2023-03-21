@@ -31,8 +31,9 @@ https://es.wikipedia.org/wiki/L%C3%B3gica_binaria
 | 1 | 0 | 0 | 1 |   | V | F | F | V |
 | 1 | 1 | 1 | 1 |   | V | V | V | V |
 
-3. Ejercicios de lógica booleana con uno, dos y más condicionales.  
-Un ejemplo: La lotería.
+3. Ejercicios de lógica booleana con uno, dos y más condicionales.   
+
+Un ejemplo: La lotería.  
 ```
 millonario = false; // inicialmente no tenemos millones
 
@@ -41,6 +42,27 @@ acierto = true ó false;
 cambiar = true ó false;
 
 IF ((comprar AND acierto) AND cambiar) THEN millonario = true;
+```
+
+Ejemplo práctico: programa en JavaScript
+```
+// Suma números hasta cumplir una condición.
+
+let sumar = true;
+let suma = 1;
+let totalSuma = 0;
+let final = 10;
+
+while (sumar == true) {
+
+	totalSuma = totalSuma + suma;
+	console.log(totalSuma);
+	
+	if (totalSuma == final) sumar = false;
+	
+}
+
+console.log("Fin");
 ```
 
 **Ejercicios alternativos**:  
