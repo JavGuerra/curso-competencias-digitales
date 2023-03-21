@@ -44,7 +44,7 @@ cambiar = true ó false;
 IF ((comprar AND acertar) AND cambiar) THEN millonario = true;
 ```
 
-Ejemplo práctico de uso de condicionales: Un programa en JavaScript
+Ejemplo práctico de uso de condicionales: Un programa en JavaScript.
 ```
 // Suma números hasta cumplir una condición.
 
