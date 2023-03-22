@@ -19,7 +19,7 @@ https://openlibrary.org/books/OL32770332M/El_hombre_que_calculaba
 1. Cloud  
 - Computación en la nube: Definición, ventajas, inconvenientes.  
 - **Ventajas**: Rápida implementación, localización global de servidores, externalización del servicio, backups automáticos, etc.  
-- **Inconvenientes**: menor control sobre la infraestructura, mayor dependencia del proveedor.
+- **Inconvenientes**: menor control sobre la infraestructura, mayor dependencia del proveedor.  
 https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube  
 - **IaaS**: Infraestructura. Ej. servidores virtuales.
 - **PaaS**: Plataforma. Ej. escritorios remotos. 
