@@ -58,7 +58,7 @@ while (sumar == true) {
 	totalSuma = totalSuma + suma;
 	console.log(totalSuma);
 	
-	if (totalSuma == final) sumar = false;
+	if (totalSuma >= final) sumar = false;
 	
 }
 
@@ -71,7 +71,7 @@ Ejercicio 1: Conversor de horarios de 24 a 12 horas.
 hora = hora actual en formato 24h (0 a 23).  
 
 ```
-hora = 17;
+hora = 17; // valor al azar
 IF (hora > 12) THEN hora = hora - 12;
 ```
 
@@ -79,7 +79,7 @@ Ejercicio 2 Conversor de horario de 12 a 24 horas.
 hora = hora actual en formato am o pm. (1 a 12 am/pm)  
 
 ```
-hora = 8;
+hora = 8; // valor al azar
 meridian = "pm";
 IF (meridian == "pm") THEN hora = hora + 12;
 ```
