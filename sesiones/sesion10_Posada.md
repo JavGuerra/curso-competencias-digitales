@@ -55,22 +55,6 @@ https://www.campusmvp.es/recursos/post/que-diferencia-hay-entre-docker-contenedo
 	- [Instrucciones de instalación](../recursos/docker.md)  
 	- [comandos-docker.txt](../recursos/comandos-docker.txt)
 
-2. Cloud  
-- Computación en la nube: Definición, ventajas, inconvenientes.  
-- **Ventajas**: Rápida implementación, localización global de servidores, externalización del servicio, backups automáticos, etc.  
-- **Inconvenientes**: menor control sobre la infraestructura, mayor dependencia del proveedor.
-https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube  
-- **IaaS**: Infraestructura. Ej. servidores virtuales.
-- **PaaS**: Plataforma. Ej. escritorios remotos. 
-- **SaaS**: Software. Ej. Gmail.
-- Proveedores de servicios en la nube: AWS, Google Cloud, Azure, otros.  
-- Infraestructuras libres: OpenStack  
-https://es.wikipedia.org/wiki/OpenStack  
-
-Ejercicio:  
-- Alta en AWS Educate + poner en español.  
-- Inicio del curso on-line «Cloud Computing»  
-
 ### 13:30 finalización de la sesión
 
 [Índice](../README.md)

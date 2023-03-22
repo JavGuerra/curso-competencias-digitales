@@ -9,13 +9,28 @@ Qué haremos hoy:
 1. Matemáticas
 
 **Recomendaciones de material complementario para divertirse:**  
-
+Libro: El hombre que calculaba (1938)  
+https://openlibrary.org/books/OL32770332M/El_hombre_que_calculaba  
 
 ### 11:30 (30 min) Descanso
 
 ### 12:00 (1h 30min) Práctica
 
-1. Cloud
+1. Cloud  
+- Computación en la nube: Definición, ventajas, inconvenientes.  
+- **Ventajas**: Rápida implementación, localización global de servidores, externalización del servicio, backups automáticos, etc.  
+- **Inconvenientes**: menor control sobre la infraestructura, mayor dependencia del proveedor.
+https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube  
+- **IaaS**: Infraestructura. Ej. servidores virtuales.
+- **PaaS**: Plataforma. Ej. escritorios remotos. 
+- **SaaS**: Software. Ej. Gmail.
+- Proveedores de servicios en la nube: AWS, Google Cloud, Azure, otros.  
+- Infraestructuras libres: OpenStack  
+https://es.wikipedia.org/wiki/OpenStack  
+
+Ejercicio:  
+- Alta en AWS Educate + poner en español.  
+- Inicio del curso on-line «Cloud Computing»  
 
 ### 13:30 finalización de la sesión
 
