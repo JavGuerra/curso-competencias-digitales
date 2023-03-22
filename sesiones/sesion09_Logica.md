@@ -70,8 +70,19 @@ console.log("Fin");
 Ejercicio 1: Conversor de horarios de 24 a 12 horas.  
 hora = hora actual en formato 24h (0 a 23).  
 
+```
+hora = 17;
+IF (hora > 12) THEN hora = hora - 12;
+```
+
 Ejercicio 2 Conversor de horario de 12 a 24 horas.  
 hora = hora actual en formato am o pm. (1 a 12 am/pm)  
+
+```
+hora = 8;
+meridian = "pm";
+IF (meridian == "pm") THEN hora = hora + 12;
+```
 
 **Recomendaciones de material complementario para divertirse:**  
 Libro: Matemáticas para programadores. Sistemas de numeración y Aritmética binaria, William Barden J. (1986)
