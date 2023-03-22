@@ -23,7 +23,7 @@ https://es.wikipedia.org/wiki/Servidor_web
 - Estructura HTML (head y body)  
 - Cabecera HTTP y peticiones GET y POST  
 - Aplicaciones del lado del cliente (JavaScript) y del servidor (NodeJs, PHP, ASP, JSP (Java), Python...)  
-- Servidores web: Apache, Ngix.
+- Servidores web: Apache, Nginx.
 
 3. Hosting: compartido, VPS, dedicados, Cloud.
 
