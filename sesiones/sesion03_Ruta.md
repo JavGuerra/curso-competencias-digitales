@@ -24,7 +24,7 @@ Ejercicio. Nombrar servicios y usos de Internet que se basan, implícitamente, e
 - Ejemplos peer-to-peer: Bitcoin, Torrents...  
 https://es.wikipedia.org/wiki/Bitcoin
 
-**Recomendaciones de material complementario para divertirse:**  
+**Recomendaciones de material complementario para divertirse:** 
 - La red social  
 https://www.filmaffinity.com/es/film577699.html  
 - La playlist (serie)  

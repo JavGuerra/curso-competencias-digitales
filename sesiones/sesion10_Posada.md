@@ -31,14 +31,6 @@ https://es.wikipedia.org/wiki/Servidor_web
 
 5. Forma de pago: mensual/anual, por horas de actividad, por tráfico, por número de instancias, por servicios complementarios (correo, BBDD...)  
 
-**Recomendaciones de material complementario para divertirse:**  
-Libro PDF: Cloud Computing, guía de aproximación para el empresario  
-https://www.incibe.es/sites/default/files/contenidos/guias/doc/guia-cloud-computing_0.pdf  
-Libro: Cloud computing, retos y oportunidades (2011)
-https://dialnet.unirioja.es/servlet/libro?codigo=572562  
-Curso Cloud Computing de Google  
-https://learndigital.withgoogle.com/activate/course/cloud-computing  
-
 ### 11:30 (30 min) Descanso
 
 ### 12:00 (1h 30min) Práctica
@@ -54,6 +46,14 @@ https://www.campusmvp.es/recursos/post/que-diferencia-hay-entre-docker-contenedo
 - Ejercicio: Instalar Docker + Docker-compose en Ubuntu.
 	- [Instrucciones de instalación](../recursos/docker.md)  
 	- [comandos-docker.txt](../recursos/comandos-docker.txt)
+
+**Recomendaciones de material complementario para divertirse:**  
+Libro PDF: Cloud Computing, guía de aproximación para el empresario  
+https://www.incibe.es/sites/default/files/contenidos/guias/doc/guia-cloud-computing_0.pdf  
+Libro: Cloud computing, retos y oportunidades (2011)
+https://dialnet.unirioja.es/servlet/libro?codigo=572562  
+Curso Cloud Computing de Google  
+https://learndigital.withgoogle.com/activate/course/cloud-computing  
 
 ### 13:30 finalización de la sesión
 

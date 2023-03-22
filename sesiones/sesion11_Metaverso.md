@@ -22,7 +22,7 @@ https://openlibrary.org/books/OL32770332M/El_hombre_que_calculaba
 - **Inconvenientes**: menor control sobre la infraestructura, mayor dependencia del proveedor.  
 https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube  
 - **IaaS**: Infraestructura. Ej. servidores virtuales.
-- **PaaS**: Plataforma. Ej. escritorios remotos. 
+- **PaaS**: Plataforma. Ej. escritorios remotos.
 - **SaaS**: Software. Ej. Gmail.
 - Proveedores de servicios en la nube: AWS, Google Cloud, Azure, otros.  
 - Infraestructuras libres: OpenStack  
@@ -30,6 +30,7 @@ https://es.wikipedia.org/wiki/OpenStack
 
 Ejercicio:  
 - Alta en AWS Educate + poner en español.  
+https://aws.amazon.com/es/education/awseducate/  
 - Inicio del curso on-line «Cloud Computing»  
 
 ### 13:30 finalización de la sesión

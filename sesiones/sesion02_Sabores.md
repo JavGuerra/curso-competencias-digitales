@@ -29,7 +29,7 @@ Material complementario: [componentes de un ordenador (PDF)](../recursos/compone
 5.  Volviendo a los «sistemas»: El sistema operativo  
     [https://es.wikipedia.org/wiki/Sistema_operativo](https://es.wikipedia.org/wiki/Sistema_operativo)
     
-6.  Sistemas operativos en el mercado:  
+6.  Sistemas operativos:  
     MS-DOS, Windows, Mac OS, GNU Linux, Android, iOS...
     
 7.  GNU Linux (Conceptos generales)  
@@ -38,7 +38,7 @@ Material complementario: [componentes de un ordenador (PDF)](../recursos/compone
 8.  Distribuciones: Ubuntu  
     [https://es.wikipedia.org/wiki/Ubuntu](https://es.wikipedia.org/wiki/Ubuntu)  
 
-9. El escritorio de Linux (Gnome vs KDE)
+9. El escritorio de Linux (Gnome vs KDE)  
 	https://www.gnome.org/  
 	https://kde.org/es/  
 
