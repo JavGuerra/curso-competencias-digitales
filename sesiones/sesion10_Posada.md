@@ -44,6 +44,7 @@ https://learndigital.withgoogle.com/activate/course/cloud-computing
 ### 12:00 (1h 30min) Práctica
 
 - Emulación vs. Virtualización vs. Contenedores.  
+https://www.campusmvp.es/recursos/post/que-diferencia-hay-entre-docker-contenedores-y-maquinas-virtuales.aspx  
 
 1. Contenedores Docker  
 	- https://es.wikipedia.org/wiki/Virtualizaci%C3%B3n_a_nivel_de_sistema_operativo  
@@ -56,8 +57,12 @@ https://learndigital.withgoogle.com/activate/course/cloud-computing
 
 2. Cloud  
 - Computación en la nube: Definición, ventajas, inconvenientes.  
+- **Ventajas**: Rápida implementación, localización global de servidores, externalización del servicio, backups automáticos, etc.  
+- **Inconvenientes**: menor control sobre la infraestructura, mayor dependencia del proveedor.
 https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube  
-- SaaS, PaaS, IaaS.  
+- **IaaS**: Infraestructura. Ej. servidores virtuales.
+- **PaaS**: Plataforma. Ej. escritorios remotos. 
+- **SaaS**: Software. Ej. Gmail.
 - Proveedores de servicios en la nube: AWS, Google Cloud, Azure, otros.  
 - Infraestructuras libres: OpenStack  
 https://es.wikipedia.org/wiki/OpenStack  
