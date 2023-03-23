@@ -8,7 +8,7 @@ Qué haremos hoy:
 
 1. Matemáticas  
 
-- Prevalencia de operaciones en Informática por orden de importancia:  
+- Prevalencia de operaciones en Informática por orden de importancia (de mayor a menor):  
 paréntesis, potencia, multiplicación, división, resta, suma.
 
 **Recomendaciones de material complementario para divertirse:**  
