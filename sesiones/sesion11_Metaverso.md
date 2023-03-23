@@ -6,7 +6,9 @@ Qué haremos hoy:
 
 ### 09:30 (2h) Teoría 
 
-1. Matemáticas
+1. Matemáticas  
+
+https://es.wikipedia.org/wiki/Representaci%C3%B3n_de_n%C3%BAmeros_con_signo  
 
 **Recomendaciones de material complementario para divertirse:**  
 Libro: El hombre que calculaba (1938)  
