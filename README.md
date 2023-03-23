@@ -27,7 +27,7 @@ Marzo 2023
 - [Sesión 9: Lógica](sesiones/sesion09_Logica.md)
 - [Sesión 10: Posada](sesiones/sesion10_Posada.md)
 - [Sesión 11: Metaverso](sesiones/sesion11_Metaverso.md)
-- [Evolutivo 3 (*abierto hasta el viernes 24 a las 23:59)](https://forms.gle/AhPYFcEf9Ani8okPA*)
+- [Evolutivo 3 (*abierto hasta el viernes 24 a las 23:59*)](https://forms.gle/AhPYFcEf9Ani8okPA)
 
 ## Instalaciones
 
