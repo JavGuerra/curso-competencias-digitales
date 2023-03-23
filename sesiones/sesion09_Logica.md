@@ -45,7 +45,7 @@ IF ((comprar AND acertar) AND cambiar) THEN millonario = true;
 ```
 
 Ejemplo práctico de uso de condicionales: Un programa en JavaScript.
-```
+``` javascript
 // Suma números hasta cumplir una condición.
 
 let sumar = true;
@@ -70,18 +70,24 @@ console.log("Fin");
 Ejercicio 1: Conversor de horarios de 24 a 12 horas.  
 hora = hora actual en formato 24h (0 a 23).  
 
-```
-hora = 17; // valor al azar
-IF (hora > 12) THEN hora = hora - 12;
+``` javascript
+let hora = 17; // poner cualquier valor entre 0 y 23
+let meridian = "am"; // "am" por si el IF no se cumple
+if (hora > 12) {
+	hora = hora - 12;
+	meridian = "pm";
+}
+console.log (hora, meridian);
 ```
 
 Ejercicio 2 Conversor de horario de 12 a 24 horas.  
 hora = hora actual en formato am o pm. (1 a 12 am/pm)  
 
-```
-hora = 8; // valor al azar
-meridian = "pm";
-IF (meridian == "pm") THEN hora = hora + 12;
+``` javascript
+let hora = 8; // poner cualquier valor entre 1 y 12
+let meridian = "pm"; // puede ser "am" o "pm"
+if (meridian == "pm") hora = hora + 12;
+console.log(hora);
 ```
 
 **Recomendaciones de material complementario para divertirse:**  

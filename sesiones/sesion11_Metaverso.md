@@ -8,7 +8,8 @@ Qué haremos hoy:
 
 1. Matemáticas  
 
-https://es.wikipedia.org/wiki/Representaci%C3%B3n_de_n%C3%BAmeros_con_signo  
+- Números con signo: https://es.wikipedia.org/wiki/Representaci%C3%B3n_de_n%C3%BAmeros_con_signo  
+- Matrices: https://es.wikipedia.org/wiki/Matriz_(matem%C3%A1tica)  
 
 **Recomendaciones de material complementario para divertirse:**  
 Libro: El hombre que calculaba (1938)  
