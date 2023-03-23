@@ -74,8 +74,8 @@ hora = hora actual en formato 24h (0 a 23).
 let hora = 17; // poner cualquier valor entre 0 y 23
 let meridian = "am"; // "am" por si el IF no se cumple
 if (hora > 12) {
-	hora = hora - 12;
-	meridian = "pm";
+    hora = hora - 12;
+    meridian = "pm";
 }
 console.log (hora, meridian);
 ```
