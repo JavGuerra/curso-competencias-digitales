@@ -73,10 +73,12 @@ hora = hora actual en formato 24h (0 a 23).
 ``` javascript
 let hora = 17; // poner cualquier valor entre 0 y 23
 let meridian = "am"; // "am" por si el IF no se cumple
+
 if (hora > 12) {
     hora = hora - 12;
     meridian = "pm";
 }
+
 console.log (hora, meridian);
 ```
 
@@ -86,7 +88,9 @@ hora = hora actual en formato am o pm. (1 a 12 am/pm)
 ``` javascript
 let hora = 8; // poner cualquier valor entre 1 y 12
 let meridian = "pm"; // puede ser "am" o "pm"
+
 if (meridian == "pm") hora = hora + 12;
+
 console.log(hora);
 ```
 
