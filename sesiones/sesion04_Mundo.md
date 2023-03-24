@@ -29,10 +29,10 @@ Qué haremos hoy:
 **Resumen**  
 
 **Capas del modelo TCP/IP**:  
-4. Aplicación: HTTP  
-3. Transporte: TCP / UDP  
-2. Red: IP  
 1. Acceso al medio: MAC  
+2. Red: IP  
+3. Transporte: TCP / UDP  
+4. Aplicación: HTTP  
 
 ![Direccionamiento IP](../recursos/ip.png) 
 
