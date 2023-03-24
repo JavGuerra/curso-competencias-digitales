@@ -1,4 +1,4 @@
-# Sesión 11: «metaverso»
+# Sesión 11: «Cuentas»
 
 Qué haremos hoy:
 - Teoría
