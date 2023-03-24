@@ -33,7 +33,7 @@ Qué haremos hoy:
 3. Transporte: TCP / UDP  
 2. Red: IP  
 1. Acceso al medio: MAC  
-
+  
 
 ![Direccionamiento IP](../recursos/ip.png) 
 
