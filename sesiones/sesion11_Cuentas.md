@@ -22,7 +22,7 @@ if (!cafe) console.log("tengo sueño");
 
 En el ejemplo, se cumpliría la condición de imprimir el mensaje "tengo sueño", porque la variable `cafe` es FALSE, y la condición IF dice que NOT FALSE = TRUE.  
 
-La variable `cafe` no cambia con el uso de NOT, la variable seguirá siendo FALSE, pero sí cambia el resultado de la condición del IF.
+La variable `cafe` no cambia con el uso de NOT, esta seguirá siendo FALSE, pero sí cambia el resultado de la condición del IF.
 
 **Recomendaciones de material complementario para divertirse:**  
 Libro: El hombre que calculaba (1938)  
