@@ -18,7 +18,7 @@ Fichero de consultas: [consultas-sql.txt](../recursos/consultas-sql.txt)
 
 ### 12:00 (1h 30min) Práctica
 
-- Repaso de comandos
+- Comandos de la shell bash: https://axarnet.es/blog/comandos-linux
 
 ### 13:30 finalización de la sesión
 

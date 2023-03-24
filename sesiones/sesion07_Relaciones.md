@@ -45,7 +45,8 @@ Ejemplo BBDD con una tabla: [ejemplo.sqlite](../recursos/ejemplo.sqlite)
 ### 12:00 (1h 30min) Práctica
 
 - La shell bash  
-- La terminal de Linux: https://axarnet.es/blog/comandos-linux
+- La terminal de Linux
+- Comandos de la shell bash: https://axarnet.es/blog/comandos-linux
 
 ### 13:30 finalización de la sesión
 
