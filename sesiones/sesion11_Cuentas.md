@@ -13,7 +13,7 @@ Qué haremos hoy:
 2. El operador lógico NOT
 - Para que una condición IF se cumpla, el resultado de las operaciones lógicas, entre paréntesis, debe ser verdadera: `IF (TRUE) THEN ...`
 - Si queremos que lo indicado tras el THEN se cumpla para aquellos casos en los que la condición es falsa (FALSE), se usa el operador NOT: `IF (NOT TRUE) THEN ...`
-- En informática, el NOT se representa por la exclamación (`!`).
+- En programación, el NOT se representa con el signo de exclamación (`!`).
 
 ```javascript
 let cafe = false;
