@@ -34,6 +34,7 @@ Qué haremos hoy:
 2. Red: IP  
 1. Acceso al medio: MAC  
 
+
 ![Direccionamiento IP](../recursos/ip.png) 
 
 **Recomendaciones de material complementario para divertirse:** 
