@@ -33,7 +33,7 @@ https://openlibrary.org/books/OL32770332M/El_hombre_que_calculaba
 ### 12:00 (1h 30min) Práctica
 
 Ejercicio:  
-- Instalar un servidor con Wordpress en nuestro localhost usando docker  
+- Instalar un servidor con Wordpress en nuestro localhost usando Docker  
 [Instrucciones de instalación](../recursos/docker.md) (al final)  
 
 Ejercicio:  

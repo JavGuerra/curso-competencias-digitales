@@ -12,7 +12,7 @@ Qué haremos hoy:
 hora = hora actual en formato 24h (0 a 23).  
 
 ``` javascript
-let hora = 17; // puede ser cualquier valor entre 0 y 23
+let hora = 17; // hora puede tener cualquier valor entre 0 y 23
 let meridian = "am"; // poner "am" por si el IF no se cumple
 
 if (hora > 12) {
@@ -23,11 +23,11 @@ if (hora > 12) {
 console.log (hora, meridian);
 ```
 
-**Ejercicio 2**: Conversor de horario de 12 a 24 horas.  
+**Ejercicio 2**: Conversor de horarios de 12 a 24 horas.  
 hora = hora actual en formato am o pm. (1 a 12 am/pm)  
 
 ``` javascript
-let hora = 8; // puede ser cualquier valor entre 1 y 12
+let hora = 8; // hora puede tener cualquier valor entre 1 y 12
 let meridian = "pm"; // puede ser "am" o "pm"
 
 if (meridian == "pm") hora = hora + 12;
