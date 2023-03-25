@@ -6,7 +6,7 @@ Qué haremos hoy:
 
 ### 09:30 (2h) Teoría 
 
-1. Matemáticas  
+1. Matemáticas y lógica  
 
 - Prevalencia de operaciones en Informática por orden de importancia (de mayor a menor): paréntesis, potencia, multiplicación, división, resta, suma.
 

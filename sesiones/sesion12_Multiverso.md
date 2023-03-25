@@ -1,4 +1,4 @@
-# Sesión 21: «Metaverso»
+# Sesión 21: «Multiverso»
 
 Qué haremos hoy:
 - Teoría
@@ -6,7 +6,7 @@ Qué haremos hoy:
 
 ### 09:30 (2h) Teoría 
 
-1. Matemáticas  
+1. Matemáticas y lógica  
 
 ### 11:30 (30 min) Descanso
 
@@ -25,6 +25,13 @@ https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube
 - Proveedores de servicios en la nube: AWS, Google Cloud, Azure, otros.
 - Infraestructuras libres: OpenStack
 https://es.wikipedia.org/wiki/OpenStack  
+
+- Un paseo por AWS:
+	- **EC2**: Elastic Compute Cloud -> Principalmente, instancias de servidor. [+info](https://aws.amazon.com/es/ec2/features/?trk=ec2_landing)
+	- **S3**: Simple Storage Service -> Almacenamiento. [+info](https://aws.amazon.com/es/s3/features/)
+	- **RDS**: Relational Database Service -> Bases de datos relacionales. [+info](https://aws.amazon.com/es/rds/features/)
+	- **Route 53**: Sistema de nombres de dominio. [+info](https://aws.amazon.com/es/route53/features/)
+	- **Capa gratuíta**: 12 meses. [Ir al sitio](https://aws.amazon.com/es/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)
 
 **Recomendaciones de material complementario para divertirse:**  
 Libro PDF: Cloud Computing, guía de aproximación para el empresario  
