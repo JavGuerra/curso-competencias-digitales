@@ -34,7 +34,7 @@ https://es.wikipedia.org/wiki/OpenStack
 	- **Capa gratuíta**: 12 meses. [Ir al sitio](https://aws.amazon.com/es/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)
 
 2. Protocolo SSH  
-https://es.wikipedia.org/wiki/Secure_Shell
+https://es.wikipedia.org/wiki/Secure_Shell  
 Cliente Windows: https://www.putty.org/  
 
 Ejercicio: [Montar un servidor básico EC2 en AWS](../recursos/servidor.md)
