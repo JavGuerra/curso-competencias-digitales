@@ -27,9 +27,9 @@ https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube
 https://es.wikipedia.org/wiki/OpenStack  
 
 - Un paseo por AWS:
-	- **EC2**: Elastic Compute Cloud -> Principalmente, instancias de servidor. [+info](https://aws.amazon.com/es/ec2/features/?trk=ec2_landing)
-	- **S3**: Simple Storage Service -> Almacenamiento. [+info](https://aws.amazon.com/es/s3/features/)
-	- **RDS**: Relational Database Service -> Bases de datos relacionales. [+info](https://aws.amazon.com/es/rds/features/)
+	- **EC2**: Elastic Compute Cloud 🠚 Principalmente, instancias de servidor. [+info](https://aws.amazon.com/es/ec2/features/?trk=ec2_landing)
+	- **S3**: Simple Storage Service 🠚 Almacenamiento. [+info](https://aws.amazon.com/es/s3/features/)
+	- **RDS**: Relational Database Service 🠚 Bases de datos relacionales. [+info](https://aws.amazon.com/es/rds/features/)
 	- **Route 53**: Sistema de nombres de dominio. [+info](https://aws.amazon.com/es/route53/features/)
 	- **Capa gratuíta**: 12 meses. [Ir al sitio](https://aws.amazon.com/es/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)
 
