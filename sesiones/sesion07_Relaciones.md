@@ -33,12 +33,13 @@ https://openwebinars.net/blog/sql-vs-nosql-comparativa-para-elegir-correctamente
 - SGBD: MySQL, MariaDB, PostgreSQL, SQLite, Oracle, Microsoft SQL Server, MongoDB, Redis, Casandra.  
 https://www.inesem.es/revistadigital/informatica-y-tics/los-gestores-de-bases-de-datos-mas-usados/  
 
-**Material complementario:**  
+Ejemplo:  
+DB Browser for SQLite: https://sqlitebrowser.org/  
+BBDD con una tabla: [ejemplo.sqlite](../recursos/ejemplo.sqlite)
+
+**Recomendaciones de material complementario para divertirse:**  
 Aprende SQL desde cero  
 https://www.sql-easy.com/es/  
-DB Browser for SQLite  
-https://sqlitebrowser.org/  
-Ejemplo BBDD con una tabla: [ejemplo.sqlite](../recursos/ejemplo.sqlite)
 
 ### 11:30 (30 min) Descanso
 
