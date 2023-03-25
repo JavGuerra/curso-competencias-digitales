@@ -28,6 +28,7 @@ https://es.wikipedia.org/wiki/OpenStack
 
 - Un paseo por AWS:
 	- **EC2**: Elastic Compute Cloud 🠚 Principalmente, instancias de servidor. [+info](https://aws.amazon.com/es/ec2/features/?trk=ec2_landing)
+	- **EBS**: Elastic Block Store 🠚 Almacenamiento. [+info](https://aws.amazon.com/es/ebs/)
 	- **S3**: Simple Storage Service 🠚 Almacenamiento. [+info](https://aws.amazon.com/es/s3/features/)
 	- **RDS**: Relational Database Service 🠚 Bases de datos relacionales. [+info](https://aws.amazon.com/es/rds/features/)
 	- **Route 53**: Sistema de nombres de dominio. [+info](https://aws.amazon.com/es/route53/features/)
