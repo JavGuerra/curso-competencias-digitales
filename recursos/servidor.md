@@ -13,7 +13,7 @@ Usaremos la capa gratuíta de AWS.
 ### Acceder al servidor
 La instancia estará levantada.  
 - Seguir las indicaciones de "Conectarse a la instancia"
-- Usar la shell en Linux y OS X o el programa Putty en Windows.
+- Usar el comando `ssh` desde la shell en Linux y OS X con el fichero `.pem` o el programa `Putty` en Windows con el fichero `.ppk`.
 
 ### Dentro del servidor
 

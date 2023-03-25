@@ -37,6 +37,7 @@ Marzo 2023
 
 - [VirtualBox + Ubuntu](recursos/virtualbox.md)
 - [Docker + compose](recursos/docker.md)
+- [Servidor EC2 en AWS](recursos/servidor.md)
 
 ## Licencia
 Sobre este contenido: [(CC) BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/es/)  
