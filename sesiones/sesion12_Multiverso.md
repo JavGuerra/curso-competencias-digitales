@@ -13,14 +13,14 @@ Qué haremos hoy:
 ### 12:00 (1h 30min) Práctica
 
 1. Cloud  
-- Computación en la nube: Definición, ventajas, inconvenientes.
+- Computación en la nube: Definición, ventajas, inconvenientes.  
 https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube  
-- **Ventajas**: Rápida implementación, localización global de servidores, externalización del servicio, backups automáticos, etc.
-- **Inconvenientes**: menor control sobre la infraestructura, mayor dependencia del proveedor.
+- **Ventajas**: Rápida implementación, localización global de servidores, externalización del servicio, backups automáticos, etc.  
+- **Inconvenientes**: menor control sobre la infraestructura, mayor dependencia del proveedor.  
 
-- **IaaS**: Infraestructura. Ej. servidores virtuales.
-- **PaaS**: Plataforma. Ej. escritorios remotos.
-- **SaaS**: Software. Ej. Gmail.
+- **IaaS**: Infraestructura. Ej. servidores virtuales.  
+- **PaaS**: Plataforma. Ej. escritorios remotos.  
+- **SaaS**: Software. Ej. Gmail.  
 
 - Proveedores de servicios en la nube: AWS, Google Cloud, Azure, otros.
 - Infraestructuras libres: OpenStack
