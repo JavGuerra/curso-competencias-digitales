@@ -42,7 +42,7 @@ Material complementario: [componentes de un ordenador (PDF)](../recursos/compone
 	https://www.gnome.org/  
 	https://kde.org/es/  
 
-10. ¿Qué es VirtualBox?
+10. ¿Qué es VirtualBox?  
 https://es.wikipedia.org/wiki/VirtualBox
 
 - Configurando VirtualBox
