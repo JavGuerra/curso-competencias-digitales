@@ -1,4 +1,4 @@
-# Sesión 21: «Multiverso»
+# Sesión 12: «Multiverso»
 
 Qué haremos hoy:
 - Teoría
