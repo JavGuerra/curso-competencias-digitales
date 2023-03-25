@@ -37,6 +37,8 @@ https://es.wikipedia.org/wiki/OpenStack
 https://es.wikipedia.org/wiki/Secure_Shell
 Cliente Windows: https://www.putty.org/  
 
+Ejercicio: [Montar un servidor básico EC2 en AWS](../recursos/servidor.md)
+
 **Recomendaciones de material complementario para divertirse:**  
 Libro PDF: Cloud Computing, guía de aproximación para el empresario  
 https://www.incibe.es/sites/default/files/contenidos/guias/doc/guia-cloud-computing_0.pdf  

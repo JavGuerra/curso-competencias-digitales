@@ -12,7 +12,8 @@ Usaremos la capa gratuíta de AWS.
 
 ### Acceder al servidor
 La instancia estará levantada.  
-- Usar las indicaciones de "Conectarse a la instancia"
+- Seguir las indicaciones de "Conectarse a la instancia"
+- Usar la shell en Linux y OS X o el programa Putty en Windows.
 
 ### Dentro del servidor
 
