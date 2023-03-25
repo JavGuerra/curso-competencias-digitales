@@ -33,6 +33,9 @@ https://es.wikipedia.org/wiki/OpenStack
 	- **Route 53**: Sistema de nombres de dominio. [+info](https://aws.amazon.com/es/route53/features/)
 	- **Capa gratuíta**: 12 meses. [Ir al sitio](https://aws.amazon.com/es/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)
 
+2. Protocolo SSH  
+https://es.wikipedia.org/wiki/Secure_Shell
+
 **Recomendaciones de material complementario para divertirse:**  
 Libro PDF: Cloud Computing, guía de aproximación para el empresario  
 https://www.incibe.es/sites/default/files/contenidos/guias/doc/guia-cloud-computing_0.pdf  
