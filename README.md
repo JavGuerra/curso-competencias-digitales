@@ -31,7 +31,7 @@ Marzo 2023
 
 ### Semana 4
 
-- [Sesión 12: Multiverso](sesiones/sesion12_Multiverso)
+- [Sesión 12: Multiverso](sesiones/sesion12_Multiverso.md)
 
 ## Instalaciones
 
