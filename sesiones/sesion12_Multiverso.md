@@ -35,6 +35,7 @@ https://es.wikipedia.org/wiki/OpenStack
 
 2. Protocolo SSH  
 https://es.wikipedia.org/wiki/Secure_Shell
+Cliente Windows: https://www.putty.org/  
 
 **Recomendaciones de material complementario para divertirse:**  
 Libro PDF: Cloud Computing, guía de aproximación para el empresario  
