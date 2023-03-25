@@ -19,7 +19,7 @@ Fichero de consultas: [consultas-sql.txt](../recursos/consultas-sql.txt)
 - Comandos de la shell bash: https://axarnet.es/blog/comandos-linux
 
 **Recomendaciones de material complementario para divertirse:**  
-Libro: Sistema Operativo GNU Linix básico. Roger Baig i Viñas y Francesc Aulí Llinàs. UOC. (2003) 
+Libro: Sistema Operativo GNU Linix básico. Roger Baig i Viñas y Francesc Aulí Llinàs. UOC. (2003)  
 https://openlibrary.org/books/OL25890189M/Sistema_operativo_GNU_Linux_b%C3%A1sico  
 Libro: En el principio fue la línea de comandos.Neal Stephenson. (2003)  
 https://openlibrary.org/books/OL26318881M/En_el_principio..._fue_la_l%C3%ADnea_de_comandos  
