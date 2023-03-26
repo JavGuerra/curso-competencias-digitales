@@ -87,7 +87,7 @@ Libro: «Matemáticas para programadores. Sistemas de numeración y Aritmética 
 - Privilegios básicos del sistema  
 https://www.softzone.es/linux/tutoriales/permisos-archivos-directorios-linux/  
 	- Todo es un fichero en Linux, también los dispositivos  
-	- usuario, grupo, otro  
+	- propietario, grupo, otro  
 	- lectura (r), escritura (w), ejecución (x)  
 
 - Actualizaciones  
