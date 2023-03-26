@@ -18,7 +18,7 @@ https://www.ibm.com/es-es/topics/data-lifecycle-management
 
 Ejercicio: Debate. ¿Es fiable Wikipedia?
 
-2. Datos y toma de decisiones: algebra booleana (lógica binaria)  
+2. Datos y toma de decisiones: álgebra booleana (lógica binaria)  
 https://es.wikipedia.org/wiki/%C3%81lgebra_de_Boole  
 https://es.wikipedia.org/wiki/L%C3%B3gica_binaria  
 
