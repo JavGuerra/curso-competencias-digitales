@@ -78,7 +78,7 @@ hora = hora actual en formato am o pm. (1 a 12 am/pm)
 *Solución en la siguiente sesión.*   
 
 **Recomendaciones de material complementario para divertirse:**  
-Libro: Matemáticas para programadores. Sistemas de numeración y Aritmética binaria, William Barden J. (1986)
+Libro: «Matemáticas para programadores. Sistemas de numeración y Aritmética binaria», William Barden J. (1986)
 
 ### 11:30 (30 min) Descanso
 

@@ -37,11 +37,11 @@ Qué haremos hoy:
 ![Direccionamiento IP](../recursos/ip.png) 
 
 **Recomendaciones de material complementario para divertirse:** 
-- Lo And Behold: Reveries of the Connected World - Official Trailer (inglés)  
+- «Lo And Behold: Reveries of the Connected World» - Official Trailer (*inglés*)  
 https://youtu.be/Zc1tZ8JsZvg  
-- Libro: El mundo digital. Nicholas Negroponte (1995)  
-- Libro: Camino al futuro. Bill Gates (1997)  
-- Libro: Hipercultura visual. Arturo Colorado Castellary (1997)  
+- Libro: «El mundo digital», Nicholas Negroponte (1995)  
+- Libro: «Camino al futuro», Bill Gates (1997)  
+- Libro: «Hipercultura visual», Arturo Colorado Castellary (1997)  
 
 ### 11:30 (30 min) Descanso
 

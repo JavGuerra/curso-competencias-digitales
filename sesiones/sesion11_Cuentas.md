@@ -25,7 +25,7 @@ En el ejemplo, se cumpliría la condición de imprimir el mensaje "tengo sueño"
 La variable `cafe` no cambia con el uso de NOT, esta seguirá siendo FALSE, pero sí cambia el resultado de la condición del IF.
 
 **Recomendaciones de material complementario para divertirse:**  
-Libro: El hombre que calculaba (1938)  
+Libro: «El hombre que calculaba». Malba Tahan, (1938)  
 https://openlibrary.org/books/OL32770332M/El_hombre_que_calculaba  
 
 ### 11:30 (30 min) Descanso

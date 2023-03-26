@@ -27,9 +27,9 @@
    [https://es.wikipedia.org/wiki/C%C3%B3digo_morse](https://es.wikipedia.org/wiki/C%C3%B3digo_morse)  
    
 **Recomendaciones de material complementario para divertirse:**  
-    - Halt and Catch Fire (Serie de TV)  
+    - «Halt and Catch Fire» (Serie de TV)  
     [https://www.filmaffinity.com/es/film449215.html](https://www.filmaffinity.com/es/film449215.html)  
-    - Computador mágico  
+    - Libro: «Computador mágico», Javier J. Sedano. (2016)  
     [https://eltamiz.com/elcedazo/series/computador-magico/](https://eltamiz.com/elcedazo/series/computador-magico/)  
 
 ### 11:30 (30 min) Descanso

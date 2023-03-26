@@ -25,11 +25,11 @@ Ejercicio. Nombrar servicios y usos de Internet que se basan, implícitamente, e
 https://es.wikipedia.org/wiki/Bitcoin
 
 **Recomendaciones de material complementario para divertirse:** 
-- La red social  
+- «La red social» (película)  
 https://www.filmaffinity.com/es/film577699.html  
-- La playlist (serie)  
+- «La playlist» (serie)  
 https://www.filmaffinity.com/es/film780937.html  
-- El código que valía millones (serie)  
+- «El código que valía millones» (serie)  
 https://www.filmaffinity.com/es/film425311.html  
 
 ### 11:30 (30 min) Descanso

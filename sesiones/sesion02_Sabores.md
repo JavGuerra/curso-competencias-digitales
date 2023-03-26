@@ -50,11 +50,11 @@ https://es.wikipedia.org/wiki/VirtualBox
 - Arrancar y apagar Ubuntu
 
 **Recomendaciones de material complementario para divertirse:**  
-	- Piratas de Silicon Valley  
+	- «Piratas de Silicon Valley» (película)  
 	https://www.filmaffinity.com/es/film399662.html  
-	- Libro: En el principio fue la línea de comandos.Neal Stephenson. (2003)  
+	- Libro: «En el principio fue la línea de comandos», Neal Stephenson. (2003)  
 	https://openlibrary.org/books/OL26318881M/En_el_principio..._fue_la_l%C3%ADnea_de_comandos  
-	- Historia de un viejo informático  
+	- «Historia de un viejo informático», Macluskey. (2014)  
     [https://eltamiz.com/elcedazo/series/historia-de-un-viejo-informatico/](https://eltamiz.com/elcedazo/series/historia-de-un-viejo-informatico/)   
 
 ### 13:30 finalización de la sesión

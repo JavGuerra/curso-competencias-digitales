@@ -42,11 +42,11 @@ Cliente Windows: https://www.putty.org/
 Ejercicio: [Montar un servidor básico EC2 en AWS](../recursos/servidor.md)
 
 **Recomendaciones de material complementario para divertirse:**  
-Libro PDF: Cloud Computing, guía de aproximación para el empresario  
+Libro PDF: «Cloud Computing, guía de aproximación para el empresario»  
 https://www.incibe.es/sites/default/files/contenidos/guias/doc/guia-cloud-computing_0.pdf  
-Libro: Cloud computing, retos y oportunidades (2011)  
+Libro: «Cloud computing, retos y oportunidades» (2011)  
 https://dialnet.unirioja.es/servlet/libro?codigo=572562  
-Curso Cloud Computing de Google  
+Curso: «Cloud Computing» de Google  
 https://learndigital.withgoogle.com/activate/course/cloud-computing  
 
 ### 13:30 finalización de la sesión
