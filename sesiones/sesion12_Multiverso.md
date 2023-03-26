@@ -44,7 +44,7 @@ Ejercicio: [Montar un servidor básico EC2 en AWS](../recursos/servidor.md)
 **Recomendaciones de material complementario para divertirse:**  
 Libro PDF: Cloud Computing, guía de aproximación para el empresario  
 https://www.incibe.es/sites/default/files/contenidos/guias/doc/guia-cloud-computing_0.pdf  
-Libro: Cloud computing, retos y oportunidades (2011)
+Libro: Cloud computing, retos y oportunidades (2011)  
 https://dialnet.unirioja.es/servlet/libro?codigo=572562  
 Curso Cloud Computing de Google  
 https://learndigital.withgoogle.com/activate/course/cloud-computing  
