@@ -34,6 +34,8 @@ https://es.wikipedia.org/wiki/Wifi
 **Recomendaciones de material complementario para divertirse:**  
 Libro: Redes de computadoras (1981)  
 https://openlibrary.org/books/OL24657684M/Redes_de_Computadoras  
+Tesis: Análisis Histórico de Internet en España. Andreu Veà Baró (2002)  
+https://www.tdx.cat/bitstream/handle/10803/9156/Tavb03de23.pdf  
 
 ### 11:30 (30 min) Descanso
 
