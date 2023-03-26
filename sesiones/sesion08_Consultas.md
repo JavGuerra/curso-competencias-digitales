@@ -23,6 +23,7 @@ Libro: «Sistema Operativo GNU Linix básico», Roger Baig i Viñas y Francesc A
 https://openlibrary.org/books/OL25890189M/Sistema_operativo_GNU_Linux_b%C3%A1sico  
 Libro: «La línea de comandos de Linux», William E. Shotts.  
 https://archive.org/details/la-linea-de-comandos-de-linux/mode/2up  
+Resumen: «Comandos Linux», Jacob Peddicord. [Ver PDF](../recursos/comandos-linux.odf)
 
 ### 13:30 finalización de la sesión
 
