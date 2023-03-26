@@ -48,4 +48,6 @@ Desaparecen los post del crackeo del blog, que se restaura a su estado del sába
 En el sitio [Notas escritas por REDES en Facebook](http://es-la.facebook.com/notes.php?id=61160987336) siguieron sin limpiarse las entradas automáticas que dejó el feed RSS. Pudiera ser que esta página en Facebook no estuviera directamente relacionada con Smartplanet.
 
 ## En la actualidad
-No hay mucha información en la red. Sólo un [canal de YouTube](https://www.youtube.com/@win32ownz94) con el nombre «win32 Ownz» creado por @win32ownz94 en 2011 y al parecer sin uso publico, pero con algunas subscripciones.
+No hay mucha información en la red. Sólo un [canal de YouTube](https://www.youtube.com/@win32ownz94) con el nombre «win32 Ownz» creado por @win32ownz94 en 2011 y al parecer sin uso publico, pero con algunas subscripciones de cuentas en Brasil.
+
+Si «94» fuera su año de nacimiento, el usuario tendría, en 2023, 29 años. En el momento del ataque tendría aproximadamente 15 años.
