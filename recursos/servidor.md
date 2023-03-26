@@ -65,7 +65,7 @@ git config --global user.email mi_correo@example.com
 sudo apt install mc
 ```
 
-## Otras instalaciones y configuraciones posibles
+### Otras instalaciones y configuraciones posibles
 - **docker y docker-compose** [+info](docker.md)
 - clamav antivirus si vamos a compartir ficheros
 - Servidor Apache
