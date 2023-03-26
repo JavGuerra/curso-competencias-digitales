@@ -48,6 +48,8 @@ Libro: «Cloud computing, retos y oportunidades» (2011)
 https://dialnet.unirioja.es/servlet/libro?codigo=572562  
 Curso: «Cloud Computing» de Google  
 https://learndigital.withgoogle.com/activate/course/cloud-computing  
+Libro: «Configuración de servidores con GNU/Linux», Joel Barrios Dueñas. (2013)  
+https://openlibra.com/es/book/configuracion-de-servidores-con-gnulinux-2  
 
 ### 13:30 finalización de la sesión
 
