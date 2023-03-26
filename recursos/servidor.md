@@ -1,34 +1,35 @@
 # Montar un servidor básico EC2 en AWS
 Usaremos la capa gratuíta de AWS.
 
-- Dentro de AWS ir a EC2 y elegir: Lanzar la instancia
-- Poner nombre, elegir distro y tipo de máquina
-- Generar un par de claves
-- Dejar los parámetros de red tal cual, por ahora
-- Configurar el almacenamiento
+- Dentro de AWS, ir a EC2 y elegir: «Lanzar la instancia»
+- Poner nombre, elegir tipo de distribución y tipo de máquina.
+- Generar un par de claves para el acceso al servidor.
+- Dejar los parámetros de red tal cual, por ahora. Usar la red por defecto.
+- Configurar el tipo y tamaño del almacenamiento.
 
 ### Firewall
-- Configurar reglas en red y seguridad. Puertos 80 y 443.
+- Configurar reglas en «red y seguridad». Dar acceso a los puertos 80 y 443.
 
 ### Acceder al servidor
 La instancia estará levantada.  
-- Seguir las indicaciones de "Conectarse a la instancia"
-- Usar el comando `ssh` desde la shell en Linux y OS X con el fichero `.pem` o el programa `Putty` en Windows con el fichero `.ppk`.
+- Seguir las indicaciones de «Conectarse a la instancia»
+- Usar el comando `ssh` desde la shell en Linux y OS X con el fichero `.pem` o el programa `Putty` en Windows con el fichero `.ppk`.  
+- Cliente Windows: https://www.putty.org/  
 
 ### Dentro del servidor
 
-- Actualizar
+- Actualizar el sistema
 ```
 sudo apt update
 sudo apt upgrade
 ```
 
-- Poner en español. Elegir `es-ES UTF8`
+- Poner el sistema en español. Elegir `es-ES UTF8`
 ```
 sudo dpkg-reconfigure locales
 ```
 
-- Instalar manuales
+- Instalar manuales en modo texto
 ```
 sudo apt-get install manpages-es
 ```
@@ -59,11 +60,12 @@ git config --global user.email mi_correo@example.com
 ```
 
 ### Bonus: Instalar Midnight Commander
+- Administrador de ficheros en modo texto
 ```
 sudo apt install mc
 ```
 
-## Otras instalaciones y configuraciones
+## Otras instalaciones y configuraciones posibles
 - **docker y docker-compose** [+info](docker.md)
 - clamav antivirus si vamos a compartir ficheros
 - Servidor Apache
@@ -101,6 +103,7 @@ nano /etc/ssh/sshd_config
 ```
 
 ### Configurar firewall ufw
+- Cerrar todos los puertos y permitir el acceso para ssh (22)
 ```
 sudo ufw default deny
 sudo ufw allow 22
