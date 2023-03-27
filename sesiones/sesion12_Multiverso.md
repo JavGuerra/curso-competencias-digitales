@@ -4,7 +4,9 @@ Qué haremos hoy:
 - Teoría
 - Práctica
 
-### 09:30 (2h) Teoría 
+### 9:30 (30min) Corrección
+
+### 10:00 (1h 30min) Teoría 
 
 1. Matemáticas y lógica  
 - De binario a decimal  
