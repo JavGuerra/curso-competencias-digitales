@@ -15,6 +15,16 @@
 ## Instalar VS Code
 - Ir a la dirección: https://code.visualstudio.com  
 - Descargar e instalar la versión correspondiente al sistema operativo que usas.  
+- Complementos recomendados: 
+	- Spanish Language Pack for Visual Studio Code
+	- Live preview
+
+## Alternativas a VS Code
+- Notepad++ https://notepad-plus-plus.org/  
+- Geany https://www.geany.org/  
+- Editores en línea:  
+	- Codepen https://codepen.io/pen/  
+	- Phoenix https://phcode.dev/  
 
 ## Materiales de consulta en PDF
 *Autor desconocido*  
