@@ -18,6 +18,13 @@ https://www.victoriglesias.net/mascaras-de-bits/
 - Arreglos, vectores y matrices  
 https://juliocanoramirez.files.wordpress.com/2016/08/arreglos-vectores-y-matrices.pdf  
 
+2. Ejercicio  
+Buscar información sobre:  
+- El conjunto de los números reales  
+- Operaciones con conjuntos  
+- Teorema de pitágoras  
+- Conceptos de: media, mediana, media ponderada y moda  
+
 
 ### 11:30 (30 min) Descanso
 
