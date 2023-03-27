@@ -3,11 +3,14 @@
 ## Instalar Git
 - Ir a la dirección: https://git-scm.com/downloads  
 - Descargar e instalar la versión correspondiente al sistema operativo que usas.  
-- Windows: Video sobre la instalación paso a paso: https://youtu.be/hVMgMHX-W7U    
+- Windows: Video sobre la instalación paso a paso: https://youtu.be/hVMgMHX-W7U  
+- Git, la guía sencilla: https://rogerdudler.github.io/git-guide/index.es.html  
+- Aprende Git: https://learngitbranching.js.org/?locale=es_ES  
 
 ## Instalar Obsidian
 - Ir a la dirección: https://obsidian.md  
 - Descargar e instalar la versión correspondiente al sistema operativo que usas.  
+- Aprende Markdown: https://www.markdowntutorial.com/es/  
 
 ## Instalar VS Code
 - Ir a la dirección: https://code.visualstudio.com  
@@ -30,7 +33,7 @@
 Estructura de una página web en HTML5  
 ![estructura](html5-estructura.jpg)
 
-## Enlaces
+## Enlaces recomendados
 *Todos ellos en inglés.*  
 - [HTML reference](https://htmlreference.io/)
 - [CSS reference](https://cssreference.io/)
