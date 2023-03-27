@@ -7,6 +7,17 @@ Qué haremos hoy:
 ### 09:30 (2h) Teoría 
 
 1. Matemáticas y lógica  
+- De binario a decimal  
+https://es.wikihow.com/convertir-binario-a-decimal  
+- Sistema hexadecimal  
+https://es.wikipedia.org/wiki/Sistema_hexadecimal  
+- Máscaras de bits  
+https://www.victoriglesias.net/mascaras-de-bits/  
+- Números con signo  
+- https://es.wikipedia.org/wiki/Representaci%C3%B3n_de_n%C3%BAmeros_con_signo  
+- Arreglos, vectores y matrices  
+https://juliocanoramirez.files.wordpress.com/2016/08/arreglos-vectores-y-matrices.pdf  
+
 
 ### 11:30 (30 min) Descanso
 
