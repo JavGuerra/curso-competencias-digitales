@@ -24,7 +24,7 @@ https://getbootstrap.com/
 https://es.wikipedia.org/wiki/Historia_de_la_World_Wide_Web  
 Tutorial en línea: «Diseño web en 4 minutos», Jeremy Thomas. Traducido por Javier Guerra.  
 https://javguerra.github.io/diseno-web-en-4-minutos/  
-Página de ejemplo: «Full Stack Web Developer: Conceptos», Javier Guerra  
+Página de ejemplo: «Full Stack Web Developer: Conceptos», Javier Guerra.  
 https://javguerra.github.io/ramp-up-fswd/index.html  
 Libro: «El gran libro de HTML, CSS y JavaScript», J.D Gauchat. (3ª edición, 2017)  
 
