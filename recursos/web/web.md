@@ -1,7 +1,7 @@
 # Recursos para la web
 
 ## Instalar Git
-- ir a la dirección: https://git-scm.com/downloads  
+- Ir a la dirección: https://git-scm.com/downloads  
 - Descargar e instalar la versión correspondiente al sistema operativo que usas.  
 - Windows: Video sobre la instalación paso a paso: https://youtu.be/hVMgMHX-W7U    
 
