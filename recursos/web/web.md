@@ -14,7 +14,8 @@
 
 ## Instalar VS Code
 - Ir a la dirección: https://code.visualstudio.com  
-- Descargar e instalar la versión correspondiente al sistema operativo que usas.  
+- Descargar e instalar la versión correspondiente al sistema operativo que usas.
+- Hay una versión de VS Code en línea: https://vscode.dev/  
 - Complementos recomendados: 
 	- Spanish Language Pack for Visual Studio Code
 	- Live preview
