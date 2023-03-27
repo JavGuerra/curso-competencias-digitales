@@ -20,12 +20,18 @@ https://getbootstrap.com/
 9. Instalar VS Code [+info](../recursos/web/web.md)  
 
 **Recomendaciones de material complementario para divertirse:**  
-«Historia de la WWW»  
+Historia de la WWW  
 https://es.wikipedia.org/wiki/Historia_de_la_World_Wide_Web  
 Tutorial en línea: «Diseño web en 4 minutos», Jeremy Thomas. Traducido por Javier Guerra.  
 https://javguerra.github.io/diseno-web-en-4-minutos/  
 Página de ejemplo: «Full Stack Web Developer: Conceptos», Javier Guerra.  
 https://javguerra.github.io/ramp-up-fswd/index.html  
+Accesibilidad web  
+https://es.wikipedia.org/wiki/Accesibilidad_web  
+Diseño web adaptable  
+https://es.wikipedia.org/wiki/Dise%C3%B1o_web_adaptable  
+Documental: «La historia de Aaron Swartz. El chico de Internet», Brian Knappenberger. (2014)  
+https://www.filmaffinity.com/es/film113451.html  
 Libro: «El gran libro de HTML, CSS y JavaScript», J.D Gauchat. (3ª edición, 2017)  
 
 ### 11:30 (30 min) Descanso
