@@ -13,8 +13,12 @@ Antivirus, antimalware, firewall, VPN, copias de seguridad de la información.
 - Todo empieza por un correo.
 - Protocolo whois  
 https://es.wikipedia.org/wiki/WHOIS  
+- Ciberataque  
+https://es.wikipedia.org/wiki/Ciberataque  
 - La intención es lo que cuenta: sombreros negro (cibercriminales), blanco y gris.  
 https://latam.kaspersky.com/resource-center/definitions/hacker-hat-types  
+- Anonymous  
+https://es.wikipedia.org/wiki/Anonymous  
 - Deep web, Dark web y Darknet.  
 https://www.xataka.com/servicios/deep-web-dark-web-darknet-diferencias  
 - Equipos de ciberseguridad: blue team (defensa) vs. red team (ataque).  
@@ -30,7 +34,7 @@ Ejemplos de debilidades que explota un atacante:
 - Otros [+info](../recursos/ataques.md)
 
 Ejemplo de seguimiento de un ataque:  
-- El caso del blog de Redes [+info](../recursos/redes/redes.md)  
+- Vandalismo: el caso del blog de Redes [+info](../recursos/redes/redes.md)  
 
 3. Autenticación  
 - Sesiones por cookies y localStorage  
