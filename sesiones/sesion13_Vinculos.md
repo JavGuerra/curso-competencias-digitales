@@ -40,6 +40,7 @@ Libro: «El gran libro de HTML, CSS y JavaScript», J.D Gauchat. (3ª edición, 
 - Código
 - Enlaces
 - Listas
+[Markdown «pruebas.md»](recursos/pruebas.md)
 
 Ejercicio  
 - Instalar VS Code [+info](../recursos/web/web.md)  
