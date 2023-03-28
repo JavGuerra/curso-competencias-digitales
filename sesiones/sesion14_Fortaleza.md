@@ -24,6 +24,12 @@ https://www.xataka.com/servicios/deep-web-dark-web-darknet-diferencias
 - Equipos de ciberseguridad: blue team (defensa) vs. red team (ataque).  
 https://www.linkedin.com/pulse/ciberseguridad-red-team-vs-blue-adrian-arguello/  
 
+3. Tipos de amenazas según sus efectos:  
+- Interceptación (escucha o monitorización).
+- Denegación del servicio (interrupción).
+- Modificación (manipulación o alteración).
+- Suplantación (impostura o fabricación).
+
 Ejemplos de debilidades que explota un atacante:  
 - Obtiene datos del proveedor a través de Whois, como la fecha de caducidad y envía un correo malicioso de renovación de dominio para obtener datos.
 - Seguimiento en redes sociales para obtener información, hacer *pishing* mediante ingeniería social...
@@ -36,7 +42,7 @@ Ejemplos de debilidades que explota un atacante:
 Ejemplo de seguimiento de un ataque:  
 - Vandalismo: el caso del blog de Redes [+info](../recursos/redes/redes.md)  
 
-3. Autenticación  
+4. Autenticación  
 - Sesiones por cookies y localStorage  
 https://es.wikipedia.org/wiki/Sesi%C3%B3n_(inform%C3%A1tica)  
 https://es.wikipedia.org/wiki/Cookie_(inform%C3%A1tica)  
@@ -53,7 +59,7 @@ https://es.wikipedia.org/wiki/Autenticaci%C3%B3n_de_m%C3%BAltiples_factores
 https://cloud.google.com/docs/authentication/token-types?hl=es-419  
 - Llaves de seguridad ePass
 
-4. Gestores de contraseña  
+5. Gestores de contraseña  
 - Navegadores
 - LastPass  
 https://lastpass.com  
@@ -62,7 +68,7 @@ https://lastpass.com
 - KeePassXC  
 https://keepassxc.org  
 
-5. Protección de datos
+6. Protección de datos
 - Normativa  
 https://www.aepd.es/es/informes-y-resoluciones/normativa  
 - Aviso de cookies  
@@ -73,8 +79,8 @@ Hacking ético
 https://youtu.be/G8StOQ33ttk  
 Píldoras  
 https://unaaldia.hispasec.com/  
-Ciberseguridad y Cloud  
-https://achirou.com/libro-seguridad/  
+La ciberseguridad al alcance de todos  
+https://www.osi.es/es/guia-de-ciberseguridad-la-ciberseguridad-al-alcance-de-todos  
 Hackstory, historia del hacking en España  
 https://hackstory.net/Main_Page  
 
