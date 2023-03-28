@@ -6,7 +6,7 @@ Qué haremos hoy:
 
 ### 09:30 (2h) Teoría 
 
-1. - Temas que se vieron en el módulo 1:  
+1. Temas que se vieron en el módulo 1:  
 Antivirus, antimalware, firewall, VPN, copias de seguridad de la información.
 
 2. Ciberseguridad  
