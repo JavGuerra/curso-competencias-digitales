@@ -8,6 +8,13 @@ Qué haremos hoy:
 
 1. Ciberseguridad
 
+**Recomendaciones de material complementario para divertirse:**  
+Accesibilidad web  
+https://es.wikipedia.org/wiki/Accesibilidad_web  
+Diseño web adaptable  
+https://es.wikipedia.org/wiki/Dise%C3%B1o_web_adaptable  
+Libro: «El gran libro de HTML, CSS y JavaScript», J.D Gauchat. (3ª edición, 2017)  
+
 ### 11:30 (30 min) Descanso
 
 ### 12:00 (1h 30min) Práctica
