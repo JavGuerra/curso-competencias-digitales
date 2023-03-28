@@ -70,13 +70,13 @@ https://www.aepd.es/es/prensa-y-comunicacion/notas-de-prensa/aepd-actualiza-guia
 
 **Recomendaciones de material complementario para divertirse:**  
 Hacking ético  
-https://youtu.be/G8StOQ33ttk
+https://youtu.be/G8StOQ33ttk  
 Píldoras  
-https://unaaldia.hispasec.com/
+https://unaaldia.hispasec.com/  
 Ciberseguridad y Cloud  
-https://achirou.com/libro-seguridad/
+https://achirou.com/libro-seguridad/  
 Hackstory, historia del hacking en España  
-https://hackstory.net/Main_Page
+https://hackstory.net/Main_Page  
 
 ### 11:30 (30 min) Descanso
 
