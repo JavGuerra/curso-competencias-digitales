@@ -12,12 +12,6 @@ https://es.wikipedia.org/wiki/Git
 4. Markdown  
 https://es.wikipedia.org/wiki/Markdown  
 5. Instalar Obsidian, editor Markdown [+info](../recursos/web/web.md)  
-6. Conceptos: HTML y CSS  
-https://es.wikipedia.org/wiki/HTML  
-https://es.wikipedia.org/wiki/CSS  
-7. Frameworks CSS: Bootstrap  
-https://getbootstrap.com/  
-9. Instalar VS Code [+info](../recursos/web/web.md)  
 
 **Recomendaciones de material complementario para divertirse:**  
 Historia de la WWW  
@@ -38,17 +32,17 @@ Libro: «El gran libro de HTML, CSS y JavaScript», J.D Gauchat. (3ª edición, 
 
 ### 12:00 (1h 30min) Práctica
 
-1. Mi primera página web  
-- HTML:  
-	- head
-	- Títulos
-	- Párrafos
-	- Enlaces
-	- Imágenes
-- CSS:
-	- Selectores
-	- Identificadores (id)
-	- Clases (class)
+1. Usando un lenguaje de marcado ligero: Markdown  
+- Encabezados
+- Texto resaltado
+- Negritas
+- Cursiva
+- Código
+- Enlaces
+- Listas
+
+Ejercicio  
+- Instalar VS Code [+info](../recursos/web/web.md)  
 
 ### 13:30 finalización de la sesión
 

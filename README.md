@@ -33,6 +33,7 @@ Marzo 2023
 
 - [Sesión 12: Multiverso](sesiones/sesion12_Multiverso.md)
 - [Sesión 13: Vínculos](sesiones/sesion13_Vinculos.md)
+- [Sesión 14: fortaleza](sesiones/sesion14_Fortaleza.md)
 
 ## Instalaciones
 
