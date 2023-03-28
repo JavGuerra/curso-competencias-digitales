@@ -22,6 +22,7 @@ Tutorial en línea: «Diseño web en 4 minutos», Jeremy Thomas. Traducido por J
 https://javguerra.github.io/diseno-web-en-4-minutos/  
 Página de ejemplo: «Full Stack Web Developer: Conceptos», Javier Guerra.  
 https://javguerra.github.io/ramp-up-fswd/index.html  
+Libro: «El gran libro de HTML, CSS y JavaScript», J.D Gauchat. (3ª edición, 2017)  
 
 ### 11:30 (30 min) Descanso
 
