@@ -63,13 +63,13 @@ https://www.aepd.es/es/informes-y-resoluciones/normativa
 https://www.aepd.es/es/prensa-y-comunicacion/notas-de-prensa/aepd-actualiza-guia-cookies  
 
 **Recomendaciones de material complementario para divertirse:**  
-Hacking ético
+Hacking ético  
 https://youtu.be/G8StOQ33ttk
-Píldoras
+Píldoras  
 https://unaaldia.hispasec.com/
-Ciberseguridad y Cloud
+Ciberseguridad y Cloud  
 https://achirou.com/libro-seguridad/
-Hackstory, historia del hacking en España
+Hackstory, historia del hacking en España  
 https://hackstory.net/Main_Page
 
 ### 11:30 (30 min) Descanso
