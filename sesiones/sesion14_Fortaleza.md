@@ -15,7 +15,9 @@ Antivirus, antimalware, firewall, VPN, copias de seguridad de la información.
 https://es.wikipedia.org/wiki/WHOIS  
 - La intención es lo que cuenta: sombreros negro (cibercriminales), blanco y gris.  
 https://latam.kaspersky.com/resource-center/definitions/hacker-hat-types  
-- Equipos de ciberseguridad: blue team (defensa) vs. red team (ataque)  
+- Deep web, Dark web y Darknet.  
+https://www.xataka.com/servicios/deep-web-dark-web-darknet-diferencias  
+- Equipos de ciberseguridad: blue team (defensa) vs. red team (ataque).  
 https://www.linkedin.com/pulse/ciberseguridad-red-team-vs-blue-adrian-arguello/  
 
 Ejemplos de debilidades que explota un atacante:  
