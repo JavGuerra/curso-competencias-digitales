@@ -17,7 +17,7 @@ https://es.wikipedia.org/wiki/WHOIS
 https://es.wikipedia.org/wiki/Ciberataque  
 - La intención es lo que cuenta: sombreros negro (cibercriminales), blanco y gris.  
 https://latam.kaspersky.com/resource-center/definitions/hacker-hat-types  
-- Anonymous  
+- Anonymous.  
 https://es.wikipedia.org/wiki/Anonymous  
 - Deep web, Dark web y Darknet.  
 https://www.xataka.com/servicios/deep-web-dark-web-darknet-diferencias  
