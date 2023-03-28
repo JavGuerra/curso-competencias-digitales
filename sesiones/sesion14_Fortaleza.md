@@ -28,7 +28,7 @@ Ejemplos de debilidades que explota un atacante:
 - Otros [+info](../recursos/ataques.md)
 
 Ejemplo de seguimiento de un ataque:  
-- El caso del blod de Redes [+info](../recursos/redes/redes.md)  
+- El caso del blog de Redes [+info](../recursos/redes/redes.md)  
 
 3. Autenticación  
 - Sesiones por cookies y localStorage  
