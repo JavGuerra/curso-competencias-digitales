@@ -39,7 +39,7 @@ Libro: «El gran libro de HTML, CSS y JavaScript», J.D Gauchat. (3ª edición, 
 - Cursiva
 - Código
 - Enlaces
-- Listas
+- Listas  
 [Markdown «pruebas.md»](recursos/pruebas.md)
 
 Ejercicio  
