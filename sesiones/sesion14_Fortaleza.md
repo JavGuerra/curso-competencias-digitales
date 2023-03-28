@@ -41,7 +41,7 @@ https://es.wikipedia.org/wiki/Criptograf%C3%ADa_asim%C3%A9trica
 https://es.wikipedia.org/wiki/OpenID  
 - OAuth  
 https://es.wikipedia.org/wiki/OAuth  
-- Autenticación de múltiples factores
+- Autenticación de múltiples factores  
 https://es.wikipedia.org/wiki/Autenticaci%C3%B3n_de_m%C3%BAltiples_factores
 - Tokens  
 https://cloud.google.com/docs/authentication/token-types?hl=es-419  
