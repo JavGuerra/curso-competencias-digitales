@@ -43,12 +43,23 @@ Ejemplo de seguimiento de un ataque:
 - Vandalismo: el caso del blog de Redes [+info](../recursos/redes/redes.md)  
 
 4. Autenticación  
+- Servicio de directorio (equipos, usuarios, grupos, permisos...)  
+https://es.wikipedia.org/wiki/Servicio_de_directorio  
+Active directory  
+https://es.wikipedia.org/wiki/Active_Directory  
+LDAP  
+https://es.wikipedia.org/wiki/Protocolo_ligero_de_acceso_a_directorios  
+https://es.wikipedia.org/wiki/Kerberos  
 - Sesiones por cookies y localStorage  
 https://es.wikipedia.org/wiki/Sesi%C3%B3n_(inform%C3%A1tica)  
 https://es.wikipedia.org/wiki/Cookie_(inform%C3%A1tica)  
 https://developer.mozilla.org/es/docs/Web/API/Window/localStorage  
 - Criptografía asimétrica: Clave pública, clave privada  
 https://es.wikipedia.org/wiki/Criptograf%C3%ADa_asim%C3%A9trica  
+SSL  
+https://es.wikipedia.org/wiki/Seguridad_de_la_capa_de_transporte  
+TLS  
+https://es.wikipedia.org/wiki/Seguridad_de_la_capa_de_transporte  
 - OpenID  
 https://es.wikipedia.org/wiki/OpenID  
 - OAuth  
