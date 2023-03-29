@@ -58,9 +58,7 @@ https://developer.mozilla.org/es/docs/Web/API/Window/localStorage
 https://es.wikipedia.org/wiki/Criptograf%C3%ADa_asim%C3%A9trica  
 DNIe  
 http://dnielectronico.us/Preguntas_Frecuentes/auten_firm_elec/index.html  
-SSL  
-https://es.wikipedia.org/wiki/Seguridad_de_la_capa_de_transporte  
-TLS  
+SSL / TLS  
 https://es.wikipedia.org/wiki/Seguridad_de_la_capa_de_transporte  
 - OpenID  
 https://es.wikipedia.org/wiki/OpenID  
