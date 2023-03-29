@@ -57,7 +57,7 @@ Juego: Code game. https://www.w3schools.com/codegame/index.html
 
 ### 11:30 (30 min) Descanso
 
-### 12:00 (1h 30min) Repaso
+### 12:00 (1h 20min) Repaso
 
 **Cerrando el círculo. Repaso general.**  
 
