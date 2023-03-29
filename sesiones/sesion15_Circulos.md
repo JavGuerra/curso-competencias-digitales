@@ -51,7 +51,7 @@ https://es.wikipedia.org/wiki/Proceso_para_el_desarrollo_de_software
 - Otros
 
 **Recomendaciones de material complementario para divertirse:**  
-Libro: «Programadores en acción» susan Lammers. Microsoft Press, Ediciones Anaya Multimedia. (1986)  
+Libro: «Programadores en acción» Susan Lammers. Microsoft Press, Ediciones Anaya Multimedia. (1986)  
 Libro: «Informática básica» Eduardo Alcalde, Miguel García. McGraw-Hill. (1994)  
 Juego: Code game. https://www.w3schools.com/codegame/index.html
 
@@ -85,6 +85,8 @@ Paquete de red
 https://es.wikipedia.org/wiki/Paquete_de_red  
 Datagrama  
 https://es.wikipedia.org/wiki/Datagrama  
+
+**Ejercicio**: Vamos a seguir, paso a paso, todo lo que ocurre desde que un usuario decide acceder a una web y hasta que le llega la información a su navegador.
 
 ### 13:30 finalización de la sesión
 
