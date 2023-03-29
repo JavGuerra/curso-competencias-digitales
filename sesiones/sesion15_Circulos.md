@@ -12,7 +12,7 @@ Qué haremos hoy:
 
 ### 11:30 (30 min) Descanso
 
-### 12:00 (1h 30min) Práctica
+### 12:00 (1h 30min) Repaso
 
 1. Repaso general: Nodos de Internet
 - Equipo informático / móvil
