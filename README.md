@@ -2,7 +2,7 @@
 
 Proyecto europeo de formación en «competencias digitales y ciberseguridad» para personas desempleadas de larga duración. Bloque II. Profesor: [Javier Guerra](https://javguerra.github.io/) para [Fundación GoodJob](https://www.fundaciongoodjob.org/).  
 
-Impartición de los siguientes contenidos: Sistemas informáticos y la red Internet -estructura y protocolos-, Introducción a Linux, Bases de Datos, Docker, Cloud computing, Ciberseguridad y Desarrollo web.  
+Impartición de los siguientes contenidos: Sistemas informáticos, la red Internet -estructura y protocolos-, Introducción a Linux, Bases de Datos, Docker, Cloud computing, Ciberseguridad y Desarrollo web.  
 
 Marzo 2023  
 
