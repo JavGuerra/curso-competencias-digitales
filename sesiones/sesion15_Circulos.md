@@ -61,7 +61,6 @@ Juego: Code game. https://www.w3schools.com/codegame/index.html
 
 1. Repaso general: Nodos de Internet
 - Equipo informático / móvil
-- Cableado
 - Router / Punto de acceso inalámbrico
 - Proveedores de Internet
 - Provedores de nombres de dominio
