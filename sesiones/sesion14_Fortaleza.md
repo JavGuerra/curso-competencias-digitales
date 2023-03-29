@@ -36,7 +36,7 @@ Ejemplos de debilidades que explota un atacante:
 - Servicios inseguros: Telnet
 - Ataques DoS y DDoS con redes zombie
 - Redirigir DNS
-- Formularios y logins: CACHA y honeypod.
+- Formularios y logins: CAPTCHA y honeypod.
 - Otros [+info](../recursos/ataques.md)
 
 Ejemplo de seguimiento de un ataque:  
