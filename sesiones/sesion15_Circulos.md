@@ -9,9 +9,9 @@ Qué haremos hoy:
 1. JavaScript  
 - Descripción (y curso)  
 https://lenguajejs.com/javascript/introduccion/que-es-javascript/  
-- JQuery  
+- JQuery (interactividad)  
 https://es.wikipedia.org/wiki/JQuery  
-- AlpineJS  
+- AlpineJS (reactividad)  
 https://www.solucionex.com/blog/descubriendo-alpinejs-el-framework-liviano-alternativa-jquery  
 - Vanilla JS  
 
