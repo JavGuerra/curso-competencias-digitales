@@ -88,6 +88,10 @@ https://es.wikipedia.org/wiki/Datagrama
 
 **Ejercicio**: Vamos a seguir, paso a paso, todo lo que ocurre desde que un usuario decide acceder a una web y hasta que le llega la información a su navegador.
 
+### 13:20 finalización del bloque
+
+- Despedida  
+
 ### 13:30 finalización de la sesión
 
 [Índice](../README.md)
