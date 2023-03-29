@@ -90,6 +90,8 @@ https://es.wikipedia.org/wiki/Datagrama
 
 ### 13:20 finalización del bloque
 
+- ¿Se ha cumplido el objetivo inicial?  
+	*Que el alumno comprenda las nociones fundamentales de la Informática, conozca el sistema operativo Linux, la estructura de Internet y las tecnologías implicadas.*  
 - Despedida  
 
 ### 13:30 finalización de la sesión
