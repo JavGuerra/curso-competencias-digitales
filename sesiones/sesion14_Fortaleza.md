@@ -106,6 +106,8 @@ Accesibilidad web
 https://es.wikipedia.org/wiki/Accesibilidad_web  
 Diseño web adaptable  
 https://es.wikipedia.org/wiki/Dise%C3%B1o_web_adaptable  
+CDN  
+https://es.wikipedia.org/wiki/Red_de_distribuci%C3%B3n_de_contenidos  
 
 2. Frameworks CSS: Bootstrap  
 https://getbootstrap.com/  
