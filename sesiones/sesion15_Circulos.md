@@ -21,9 +21,39 @@ https://dsoto.dev/posts/alpine-example
 - Una página de ejemplo  
 https://javguerra.github.io/ramp-up-fswd/index.html  
 
-4. Conceptos de  programación
+3. Conceptos de  programación
+- **Algoritmo**: secuencia ordenada de pasos, descrita sin ambigüedades, que conducen a la solución de un problema dado.  
+- **Programa**: pasos del algoritmo descrito en un determinado lenguaje de programación.  
+- **Lenguaje de programación**: lenguaje de computadora que los programadores utilizan para comunicarse y para desarrollar programas de software, aplicaciones, páginas webs, scripts u otros conjuntos de instrucciones para que sean ejecutadas por los ordenadores.  
+
+- Paradigmas de programación  
+https://es.wikipedia.org/wiki/Paradigma_de_programaci%C3%B3n  
+- Fases de la programación y ciclo de vida del software: análisis, diseño, codificación, prueba, documentación, explotación, mantenimiento.    
+https://es.wikipedia.org/wiki/Proceso_para_el_desarrollo_de_software  
+
+4. Lenguajes de programación  
+- De bajo nivel (cercanos a la máquina)
+	- Lenguaje máquina  
+	- Lenguaje ensamblador (mnemotécnicos)  
+- De alto nivel (cercanos al usuario)
+	- Lenguajes compilados (compilador)  
+		C, C++, Lisp, Java (*a bytecode*), etc.
+	- Lenguajes interpretados (intérprete)  
+		Perl, PHP, Python, JavaScript, etc.  
+
+5. Estructura de programas  
+- Palabras reservadas y sintáxis
+- Variables
+- Tipos de datos
+- Operadores
+- Secuencias de control
+- Conexión con dispositivos y recursos (pantalla, teclado, ficheros, BBDD, etc.)
+- Otros
 
 **Recomendaciones de material complementario para divertirse:**  
+Libro: «Programadores en acción» susan Lammers. Microsoft Press, Ediciones Anaya Multimedia. (1986)  
+Libro: «Informática básica» Eduardo Alcalde, Miguel García. McGraw-Hill. (1994)  
+Juego: Code game. https://www.w3schools.com/codegame/index.html
 
 ### 11:30 (30 min) Descanso
 
