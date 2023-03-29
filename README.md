@@ -1,7 +1,9 @@
 # Materiales para el alumnado
 
-Bloque II del curso de PLD de la [Fundación GoodJob](https://www.fundaciongoodjob.org/)  
-Profesor: [Javier Guerra](https://javguerra.github.io/)  
+Proyecto europeo de formación en «competencias digitales y ciberseguridad» para personas desempleadas de larga duración. Impartición de los siguientes contenidos: Introducción a Linux, analítica de datos, BBDD, docker, Cloud, ciberseguridad, automatización y desarrollo web.  
+
+Bloque II. Profesor: [Javier Guerra](https://javguerra.github.io/) para [Fundación GoodJob](https://www.fundaciongoodjob.org/).  
+
 Marzo 2023  
 
 ## Índice
