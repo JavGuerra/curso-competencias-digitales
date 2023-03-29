@@ -6,7 +6,22 @@ Qué haremos hoy:
 
 ### 09:30 (2h) Teoría 
 
-1. Programación
+1. JavaScript  
+- Descripción (y curso)  
+https://lenguajejs.com/javascript/introduccion/que-es-javascript/  
+- JQuery  
+https://es.wikipedia.org/wiki/JQuery  
+- AlpineJS  
+https://www.solucionex.com/blog/descubriendo-alpinejs-el-framework-liviano-alternativa-jquery  
+- Vanilla JS  
+
+2. Ejemplos de uso:
+- Consumir una API  
+https://dsoto.dev/posts/alpine-example  
+- Una página de ejemplo  
+https://javguerra.github.io/ramp-up-fswd/index.html  
+
+4. Conceptos de  programación
 
 **Recomendaciones de material complementario para divertirse:**  
 

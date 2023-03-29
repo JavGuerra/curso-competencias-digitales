@@ -15,6 +15,8 @@ Antivirus, antimalware, firewall, VPN, copias de seguridad de la información.
 https://es.wikipedia.org/wiki/WHOIS  
 - Ciberataque  
 https://es.wikipedia.org/wiki/Ciberataque  
+- Logs  
+https://es.wikipedia.org/wiki/Log_(inform%C3%A1tica)  
 - La intención es lo que cuenta: sombreros negro (cibercriminales), blanco y gris.  
 https://latam.kaspersky.com/resource-center/definitions/hacker-hat-types  
 - Anonymous.  
@@ -45,25 +47,25 @@ Ejemplo de seguimiento de un ataque:
 4. Autenticación  
 - Servicio de directorio (equipos, usuarios, grupos, permisos...)  
 https://es.wikipedia.org/wiki/Servicio_de_directorio  
-Active directory  
-https://es.wikipedia.org/wiki/Active_Directory  
-LDAP  
-https://es.wikipedia.org/wiki/Protocolo_ligero_de_acceso_a_directorios  
-https://es.wikipedia.org/wiki/Kerberos  
+	Active directory  
+	https://es.wikipedia.org/wiki/Active_Directory  
+	LDAP  
+	https://es.wikipedia.org/wiki/Protocolo_ligero_de_acceso_a_directorios  
 - Sesiones por cookies y localStorage  
 https://es.wikipedia.org/wiki/Sesi%C3%B3n_(inform%C3%A1tica)  
 https://es.wikipedia.org/wiki/Cookie_(inform%C3%A1tica)  
 https://developer.mozilla.org/es/docs/Web/API/Window/localStorage  
 - Criptografía asimétrica: Clave pública, clave privada  
 https://es.wikipedia.org/wiki/Criptograf%C3%ADa_asim%C3%A9trica  
-DNIe  
-http://dnielectronico.us/Preguntas_Frecuentes/auten_firm_elec/index.html  
-SSL / TLS  
-https://es.wikipedia.org/wiki/Seguridad_de_la_capa_de_transporte  
-- OpenID  
-https://es.wikipedia.org/wiki/OpenID  
-- OAuth  
-https://es.wikipedia.org/wiki/OAuth  
+	DNIe  
+	http://dnielectronico.us/Preguntas_Frecuentes/auten_firm_elec/index.html  
+	SSL / TLS  
+	https://es.wikipedia.org/wiki/Seguridad_de_la_capa_de_transporte  
+- Autenticación por terceros  
+	OpenID  
+	https://es.wikipedia.org/wiki/OpenID  
+	OAuth  
+	https://es.wikipedia.org/wiki/OAuth  
 - Autenticación de múltiples factores  
 https://es.wikipedia.org/wiki/Autenticaci%C3%B3n_de_m%C3%BAltiples_factores
 - Tokens  
@@ -102,6 +104,9 @@ https://hackstory.net/Main_Page
 1. Conceptos: HTML y CSS  
 https://es.wikipedia.org/wiki/HTML  
 https://es.wikipedia.org/wiki/CSS  
+Cursos HTML y CSS  
+https://lenguajehtml.com/html/  
+https://lenguajecss.com/css/  
 Accesibilidad web  
 https://es.wikipedia.org/wiki/Accesibilidad_web  
 Diseño web adaptable  
@@ -126,6 +131,8 @@ https://getbootstrap.com/
 
 4. Despliegue  
 https://es.wikipedia.org/wiki/Despliegue_de_software  
+SFTP  
+https://es.wikipedia.org/wiki/SSH_File_Transfer_Protocol  
 
 ### 13:30 finalización de la sesión
 
