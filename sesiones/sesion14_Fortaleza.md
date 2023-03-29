@@ -56,6 +56,8 @@ https://es.wikipedia.org/wiki/Cookie_(inform%C3%A1tica)
 https://developer.mozilla.org/es/docs/Web/API/Window/localStorage  
 - Criptografía asimétrica: Clave pública, clave privada  
 https://es.wikipedia.org/wiki/Criptograf%C3%ADa_asim%C3%A9trica  
+DNIe  
+http://dnielectronico.us/Preguntas_Frecuentes/auten_firm_elec/index.html  
 SSL  
 https://es.wikipedia.org/wiki/Seguridad_de_la_capa_de_transporte  
 TLS  
