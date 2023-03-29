@@ -59,7 +59,9 @@ Juego: Code game. https://www.w3schools.com/codegame/index.html
 
 ### 12:00 (1h 30min) Repaso
 
-1. Repaso general: Nodos de Internet
+**Cerrando el círculo. Repaso general.**  
+
+1. Nodos de Internet
 - Equipo informático / móvil
 - Router / Punto de acceso inalámbrico
 - Proveedores de Internet
@@ -86,7 +88,7 @@ https://es.wikipedia.org/wiki/Paquete_de_red
 Datagrama  
 https://es.wikipedia.org/wiki/Datagrama  
 
-**Ejercicio**: Vamos a seguir, paso a paso, todo lo que ocurre desde que un usuario decide acceder a una web y hasta que le llega la información a su navegador.
+**Ejercicio**: Vamos a seguir, paso a paso, todo lo que ocurre desde que un usuario decide acceder a una web, hasta que le llega la información a su navegador.
 
 ### 13:20 finalización del bloque
 
