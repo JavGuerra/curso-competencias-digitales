@@ -13,7 +13,11 @@ https://lenguajejs.com/javascript/introduccion/que-es-javascript/
 https://es.wikipedia.org/wiki/JQuery  
 - AlpineJS (reactividad)  
 https://www.solucionex.com/blog/descubriendo-alpinejs-el-framework-liviano-alternativa-jquery  
-- Vanilla JS  
+- Vanilla JS: denominación de javaScript cuando se usa sin ninguna librería. JavaScript puro.  
+- API  
+https://es.wikipedia.org/wiki/API
+- Estructura de datos que maneja JavaScript  
+https://es.wikipedia.org/wiki/JSON  
 
 2. Ejemplos de uso:
 - Consumir una API  
@@ -51,6 +55,8 @@ https://es.wikipedia.org/wiki/Proceso_para_el_desarrollo_de_software
 - Otros
 
 **Recomendaciones de material complementario para divertirse:**  
+Curso: «Profundización en el desarrollo web moderno», Universidad de Helsinki, The Finnish Houston Inc.  
+https://fullstackopen.com/es/  
 Libro: «Programadores en acción» Susan Lammers. Microsoft Press, Ediciones Anaya Multimedia. (1986)  
 Libro: «Informática básica» Eduardo Alcalde, Miguel García. McGraw-Hill. (1994)  
 Juego: Code game. https://www.w3schools.com/codegame/index.html
