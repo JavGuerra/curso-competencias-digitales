@@ -13,7 +13,7 @@ https://lenguajejs.com/javascript/introduccion/que-es-javascript/
 https://es.wikipedia.org/wiki/JQuery  
 - AlpineJS (reactividad)  
 https://www.solucionex.com/blog/descubriendo-alpinejs-el-framework-liviano-alternativa-jquery  
-- Vanilla JS: denominación de javaScript cuando se usa sin ninguna librería. JavaScript puro.  
+- Vanilla JS: JavaScript puro. Denominación de JavaScript cuando se usa sin ninguna librería.  
 - API  
 https://es.wikipedia.org/wiki/API
 - JSON: Estructura de datos que maneja JavaScript  
@@ -57,6 +57,8 @@ https://es.wikipedia.org/wiki/Proceso_para_el_desarrollo_de_software
 **Recomendaciones de material complementario para divertirse:**  
 Curso: «Profundización en el desarrollo web moderno», Universidad de Helsinki, The Finnish Houston Inc.  
 https://fullstackopen.com/es/  
+Tutorial en línea: «JavaScript en 14 minutos», Jeremy Thomas. Traducido por Javier Guerra.  
+https://javguerra.github.io/javascript-en-14-minutos/  
 Libro: «Programadores en acción» Susan Lammers. Microsoft Press, Ediciones Anaya Multimedia. (1986)  
 Libro: «Informática básica» Eduardo Alcalde, Miguel García. McGraw-Hill. (1994)  
 Juego: Code game. https://www.w3schools.com/codegame/index.html
