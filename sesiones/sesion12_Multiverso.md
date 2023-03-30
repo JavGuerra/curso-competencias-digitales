@@ -24,7 +24,7 @@ https://juliocanoramirez.files.wordpress.com/2016/08/arreglos-vectores-y-matrice
 Buscar información sobre:  
 - El conjunto de los números reales  
 - Operaciones con conjuntos  
-- Teorema de pitágoras  
+- Teorema de Pitágoras  
 - Conceptos de: media, mediana, media ponderada y moda  
 
 
