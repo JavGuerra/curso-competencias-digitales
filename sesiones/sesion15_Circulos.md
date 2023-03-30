@@ -16,7 +16,7 @@ https://www.solucionex.com/blog/descubriendo-alpinejs-el-framework-liviano-alter
 - Vanilla JS: denominación de javaScript cuando se usa sin ninguna librería. JavaScript puro.  
 - API  
 https://es.wikipedia.org/wiki/API
-- Estructura de datos que maneja JavaScript  
+- JSON: Estructura de datos que maneja JavaScript  
 https://es.wikipedia.org/wiki/JSON  
 
 2. Ejemplos de uso:
