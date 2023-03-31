@@ -8,7 +8,7 @@ Marzo 2023
 
 ## Objetivo
 
->	 *Que el alumnado del módulo comprenda las nociones fundamentales de la Informática, conozca el sistema operativo Linux, las tecnologías y protocolos relacionados con Internet, su estructura y las características de sus nodos.*  
+>	 *Que el alumnado del módulo comprenda las nociones fundamentales de la Informática, conozca el sistema operativo Linux, las tecnologías, los protocolos, la estructura y las características de los nodos de la red Internet.*  
 
 ## Índice
 
