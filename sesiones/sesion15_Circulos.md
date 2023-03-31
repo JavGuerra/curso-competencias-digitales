@@ -105,8 +105,7 @@ https://es.wikipedia.org/wiki/Datagrama
 ### 13:20 finalización del bloque
 
 - ¿Se ha cumplido el objetivo inicial?  
->	 *Que el alumnado del módulo comprenda las nociones fundamentales de la Informática, conozca el sistema operativo Linux, las tecnologías y protocolos relacionados con Internet y su estructura de red.*  
-	
+
 - Despedida  
 
 ### 13:30 finalización de la sesión
