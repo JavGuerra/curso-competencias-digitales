@@ -34,6 +34,8 @@ https://javguerra.github.io/ramp-up-fswd/index.html
 https://es.wikipedia.org/wiki/Paradigma_de_programaci%C3%B3n  
 - Fases de la programación y ciclo de vida del software: análisis, diseño, codificación, prueba, documentación, explotación, mantenimiento.    
 https://es.wikipedia.org/wiki/Proceso_para_el_desarrollo_de_software  
+- Desarrollo ágil de software    
+https://es.wikipedia.org/wiki/Desarrollo_%C3%A1gil_de_software  
 
 4. Lenguajes de programación  
 - De bajo nivel (cercanos a la máquina)
