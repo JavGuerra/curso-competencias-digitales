@@ -6,9 +6,10 @@ Impartición de los siguientes contenidos: Sistemas informáticos, la red Intern
 
 Marzo 2023  
 
-## Objetivo
+### Objetivo
 
 >	 *Que el alumnado del módulo comprenda las nociones fundamentales de la Informática, conozca el sistema operativo Linux, y las tecnologías, los protocolos, la estructura y las características de los nodos que conforman la red Internet.*  
+
 
 ## Índice
 
