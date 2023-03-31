@@ -6,6 +6,7 @@ Impartición de los siguientes contenidos: Sistemas informáticos, la red Intern
 
 Marzo 2023  
 
+
 ### Objetivo
 
 >	 *Que el alumnado del módulo comprenda las nociones fundamentales de la Informática, conozca el sistema operativo Linux, y las tecnologías, los protocolos, la estructura y las características de los nodos que conforman la red Internet.*  
@@ -44,12 +45,14 @@ Marzo 2023
 - [Sesión 15: Círculos](sesiones/sesion15_Circulos.md)
 - [Evolutivo 4 (*abierto hasta el viernes a las 23:59*)](https://forms.gle/Q5APMd3FkqK4bFVZ6)
 
+
 ## Instalaciones
 
 - [VirtualBox + Ubuntu](recursos/virtualbox.md)
 - [Docker + compose](recursos/docker.md)
 - [Servidor EC2 en AWS](recursos/servidor.md)
 - [Recursos para la web](recursos/web/web.md)
+
 
 ## Licencia
 Sobre este contenido: [(CC) BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/es/)  
