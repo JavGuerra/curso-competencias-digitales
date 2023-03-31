@@ -71,7 +71,9 @@ Juego: Code game. https://www.w3schools.com/codegame/index.html
 
 **Cerrando el círculo. Repaso general.**  
 
-1. Nodos de Internet
+**Ejercicio**: Realiza una tabla donde indiques, en las columnas, cada uno de los nodos del punto 1, y en cada fila, cada uno de los conceptos del punto 2, y completa su contenido. P. Ej. en la intersección entre equipo informático y administradores y suarios indicaríamos «usuario del sistema».
+
+1. **Nodos de Internet**  
 - Equipo informático / móvil
 - Router / Punto de acceso inalámbrico
 - Proveedores de Internet
@@ -82,15 +84,15 @@ Juego: Code game. https://www.w3schools.com/codegame/index.html
 - CDN
 - Otros servidores: correo, BBDD, almacenamiento...
 
-2. Descripción de cada uno de los nodos por:
-- Usuarios
+2. **Características de cada nodo**   
+- Administradores y usuarios del nodo
 - Hardware que lo compone
 - Software de sistema
 - Puertos y controladores
 - Protocolos que usa
 - Software de aplicaciones
-- Creación de las aplicaciones
-- Creación de los contenidos
+- Procedimientos de creación de las aplicaciones
+- Procedimientos de creación de los contenidos
 - Criterios de seguridad aplicables
 
 Paquete de red  
