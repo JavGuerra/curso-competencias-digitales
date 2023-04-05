@@ -71,7 +71,7 @@ Juego: Code game. https://www.w3schools.com/codegame/index.html
 
 **Cerrando el círculo. Repaso general.**  
 
-**Ejercicio**: Realiza una tabla donde indiques, en las columnas, cada uno de los nodos del punto 1, y en cada fila, cada uno de los conceptos del punto 2, y completa su contenido. P. Ej. en la intersección entre equipo informático y administradores y suarios indicaríamos «usuario del sistema».
+**Ejercicio**: Realiza una tabla donde indiques, en las columnas, cada uno de los nodos del punto 1, y en cada fila, cada uno de los conceptos del punto 2, y completa su contenido. P. Ej. en la intersección entre equipo informático y administradores y usuarios indicaríamos «usuario del sistema».
 
 1. **Nodos de Internet**  
 - Equipo informático / móvil
