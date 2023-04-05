@@ -14,6 +14,7 @@
 -  Emulación vs. virtualización vs. contenedores  
 - Cloud computing  
 - Conceptos técnicos de Ciberseguridad  
+- Conceptos de programación
 - Desarrollo de aplicaciones web  
 - Repaso de matemáticas  
 
