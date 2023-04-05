@@ -31,4 +31,4 @@
 - Conceptos generales de fortificación de servidores  
 - Uso de Git
 
-[Índice](../../README.md)
+[Índice](../README.md)

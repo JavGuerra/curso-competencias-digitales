@@ -14,7 +14,7 @@ Marzo 2023
 
 ## Índice
 
-[Resumen de contenidos](recursos/contenidos.md)
+- [Resumen de contenidos](recursos/contenidos.md)
 
 ### Semana 1
 
