@@ -14,6 +14,8 @@ Marzo 2023
 
 ## Índice
 
+[Resumen de contenidos](recursos/contenidos.md)
+
 ### Semana 1
 
 - [Sesión 1: SOS](sesiones/sesion01_SOS.md)
