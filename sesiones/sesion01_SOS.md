@@ -14,17 +14,19 @@
     
 2.  Subsistemas y partes
     
-3.  Sistema informático (esquemas)  
+3.  Sistema informático + esquemas.  
+   Propósito: Procesar los datos (organizarlos, almacenarlos, transformarlos)  
     [https://es.wikipedia.org/wiki/Sistema_inform%C3%A1tico](https://es.wikipedia.org/wiki/Sistema_inform%C3%A1tico)  
     [https://www.areatecnologia.com/informatica/sistema-informatico.html](https://www.areatecnologia.com/informatica/sistema-informatico.html)
     
 4.  Software vs Hardware  
-    [https://edu.gcfglobal.org/es/informatica-basica/que-es-hardware-y-software/1/](https://edu.gcfglobal.org/es/informatica-basica/que-es-hardware-y-software/1/)
-5.  Concepto de informática: El propósito de un sistema informático  
-    [https://es.wikipedia.org/wiki/Inform%C3%A1tica](https://es.wikipedia.org/wiki/Inform%C3%A1tica)
-    
-6.  Comunicaciones entre partes. Ejemplo: Código morse (puntos y rayas) SOS= . . . - - - . . .   
-   [https://es.wikipedia.org/wiki/C%C3%B3digo_morse](https://es.wikipedia.org/wiki/C%C3%B3digo_morse)  
+    [https://edu.gcfglobal.org/es/informatica-basica/que-es-hardware-y-software/1/](https://edu.gcfglobal.org/es/informatica-basica/que-es-hardware-y-software/1/)  
+5. Puertos y controladores  
+  https://es.wikipedia.org/wiki/Puerto_(inform%C3%A1tica)  
+  https://es.wikipedia.org/wiki/Controlador_de_dispositivo  
+
+6.  Definición de informática
+    [https://es.wikipedia.org/wiki/Inform%C3%A1tica](https://es.wikipedia.org/wiki/Inform%C3%A1tica)  
    
 **Recomendaciones de material complementario para divertirse:**  
     - «Halt and Catch Fire» (Serie de TV)  

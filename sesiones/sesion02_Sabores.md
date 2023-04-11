@@ -7,42 +7,46 @@ Qué haremos hoy:
 
 ### 09:30 (2h) Teoría  
 
-Repaso de algunas cosas que vimos ayer: Puertos y controladores.  
+Repaso
+
 Material complementario: [componentes de un ordenador (PDF)](../recursos/componentes-ordenador.pdf).
 
-1. Analógico (continuo) vs digital (dígitos)  
+1. Comunicaciones: Código morse (puntos y rayas) SOS= . . . - - - . . .   
+   [https://es.wikipedia.org/wiki/C%C3%B3digo_morse](https://es.wikipedia.org/wiki/C%C3%B3digo_morse)  
+
+2. Analógico (continuo) vs digital (dígitos)  
     [https://www.diferenciador.com/sistema-digital-y-sistema-analogico/](https://www.diferenciador.com/sistema-digital-y-sistema-analogico/)
     
-2.  Dígitos (un sólo guarismo/cifra) vs números  
+3. Dígitos (un sólo guarismo/cifra) vs números  
     [https://es.wikipedia.org/wiki/Cifra_(matem%C3%A1tica)](https://es.wikipedia.org/wiki/Cifra_(matem%C3%A1tica))
     
-3.  Binario vs decimal (otros duodecimal/docenal, hexadecimal…)  
+4. Binario vs decimal (otros duodecimal/docenal, hexadecimal…)  
     [https://es.wikipedia.org/wiki/Sistema_binario](https://es.wikipedia.org/wiki/Sistema_binario)
     
-4.  Comunicaciones entre ordenadores. Ejemplo: Tabla ASCII  
+5. Comunicaciones entre ordenadores. Ejemplo: Tabla ASCII  
     [https://es.wikipedia.org/wiki/ASCII](https://es.wikipedia.org/wiki/ASCII)
 
 ### 11:30 (30 min) Descanso
 
 ### 12:00 (1h 30min) Teoría / Práctica
 
-5.  Volviendo a los «sistemas»: El sistema operativo  
+1.  Volviendo a los «sistemas»: El sistema operativo  
     [https://es.wikipedia.org/wiki/Sistema_operativo](https://es.wikipedia.org/wiki/Sistema_operativo)
     
-6.  Sistemas operativos:  
+2.  Sistemas operativos:  
     MS-DOS, Windows, Mac OS, GNU Linux, Android, iOS...
     
-7.  GNU Linux (Conceptos generales)  
+3.  GNU Linux (Conceptos generales)  
     [https://es.wikipedia.org/wiki/GNU/Linux](https://es.wikipedia.org/wiki/GNU/Linux)
     
-8.  Distribuciones: Ubuntu  
+4.  Distribuciones: Ubuntu  
     [https://es.wikipedia.org/wiki/Ubuntu](https://es.wikipedia.org/wiki/Ubuntu)  
 
-9. El escritorio de Linux (Gnome vs KDE)  
+5. El escritorio de Linux (Gnome vs KDE)  
 	https://www.gnome.org/  
 	https://kde.org/es/  
 
-10. ¿Qué es VirtualBox?  
+6. ¿Qué es VirtualBox?  
 https://es.wikipedia.org/wiki/VirtualBox
 
 - Configurando VirtualBox
