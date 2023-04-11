@@ -25,7 +25,7 @@
   https://es.wikipedia.org/wiki/Puerto_(inform%C3%A1tica)  
   https://es.wikipedia.org/wiki/Controlador_de_dispositivo  
 
-6.  Definición de informática
+6.  Definición de informática  
     [https://es.wikipedia.org/wiki/Inform%C3%A1tica](https://es.wikipedia.org/wiki/Inform%C3%A1tica)  
    
 **Recomendaciones de material complementario para divertirse:**  
