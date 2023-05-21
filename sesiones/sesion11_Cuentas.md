@@ -8,7 +8,7 @@ Qué haremos hoy:
 
 1. Matemáticas y lógica  
 
-- Prevalencia de operaciones en Informática por orden de importancia (de mayor a menor): paréntesis, potencia, multiplicación, división, resta, suma.
+- Precedencia de operaciones en Informática (de mayor a menor): paréntesis, potencia, multiplicación, división, resto, suma, resta.
 
 2. El operador lógico NOT
 - Para que una condición IF se cumpla, el resultado de las operaciones lógicas, entre paréntesis, debe ser verdadera: `IF (TRUE) THEN ...`
