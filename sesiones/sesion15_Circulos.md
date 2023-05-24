@@ -28,7 +28,7 @@ https://javguerra.github.io/ramp-up-fswd/index.html
 3. Conceptos de  programación
 - **Algoritmo**: secuencia ordenada de pasos, descrita sin ambigüedades, que conducen a la solución de un problema dado.  
 - **Programa**: pasos del algoritmo descrito en un determinado lenguaje de programación.  
-- **Lenguaje de programación**: lenguaje de computadora que los programadores utilizan para comunicarse y para desarrollar programas de software, aplicaciones, páginas webs, scripts u otros conjuntos de instrucciones para que sean ejecutadas por los ordenadores.  
+- **Lenguaje de programación**: lenguaje que los programadores utilizan para comunicarse con los ordenadores y desarrollar software: programas, aplicaciones, páginas webs, scripts u otros conjuntos de instrucciones que serán ejecutadas por ellos.
 
 - Paradigmas de programación  
 https://es.wikipedia.org/wiki/Paradigma_de_programaci%C3%B3n  
