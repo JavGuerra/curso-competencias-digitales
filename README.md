@@ -55,6 +55,8 @@ Marzo 2023
 - [Servidor EC2 en AWS](recursos/servidor.md)
 - [Recursos para la web](recursos/web/web.md)
 
+## Apuntes
+- [Apuntes de los alumnos](alumnos/apuntes.md)
 
 ## Licencia
 Sobre este contenido: [(CC) BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/es/)  
