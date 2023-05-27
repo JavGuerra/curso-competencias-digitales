@@ -8,7 +8,7 @@ Qué haremos hoy:
 
 **Corrección de los ejercicios de lógica propuestos.**  
 
-ATENCIÓN: El código que se presenta a continuación se ha simplificado obviando las comprobaciones relativas a los cambios específicos de los valores de 12 horas.
+ATENCIÓN: *El código que se presenta a continuación se ha simplificado obviando las comprobaciones relativas a los cambios específicos de los valores de 12 horas.*
 
 **Ejercicio 1**: Conversor de horarios de 24 a 12 horas.  
 hora = hora actual en formato 24h (0 a 23).  
