@@ -37,6 +37,8 @@ if (meridian == "pm") hora = hora + 12;
 console.log(hora);
 ```
 
+Solución completa en Python: [horarios.py](recursos/horarios.py)
+
 1. Dominio vs. URL (https://...)  
 https://es.wikipedia.org/wiki/Dominio_de_internet  
 - Dominios de nivel superior y subdominios  
