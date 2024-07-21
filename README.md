@@ -2,17 +2,15 @@
 
 ## Materiales para el alumnado
 
-Proyecto europeo de formación en «competencias digitales» para personas desempleadas de larga duración. Profesor [Javier Guerra](https://javguerra.github.io/) para [Fundación GoodJob](https://www.fundaciongoodjob.org/).  
+Proyecto europeo de formación en «competencias digitales» para personas desempleadas de larga duración. Profesor [Javier Guerra](https://javguerra.github.io/) para Fundación GoodJob.  
 
-Impartición de los siguientes contenidos: Sistemas informáticos, la red Internet -estructura y protocolos-, Introducción a Linux, Bases de Datos, Docker, Cloud computing, Ciberseguridad y Desarrollo web.  
+Marzo a Junio de 2023
 
-Marzo a Junio de 2023  
-
+Contenidos: Sistemas informáticos, la red Internet -estructura y protocolos-, Introducción a Linux, Bases de Datos, Docker, Cloud computing, Ciberseguridad y Desarrollo web.  
 
 ### Objetivo
 
 >	 *Que el alumnado del módulo comprenda las nociones fundamentales de la Informática, conozca el sistema operativo Linux, y las tecnologías, los protocolos, la estructura y las características de los nodos que conforman la red Internet.*  
-
 
 ## Índice
 
@@ -48,7 +46,6 @@ Marzo a Junio de 2023
 - [Sesión 14: Fortaleza](sesiones/sesion14_Fortaleza.md)  
 - [Sesión 15: Círculos](sesiones/sesion15_Circulos.md)
 - [Evolutivo 4 (*cerrado*)](https://forms.gle/Q5APMd3FkqK4bFVZ6)
-
 
 ## Instalaciones
 
