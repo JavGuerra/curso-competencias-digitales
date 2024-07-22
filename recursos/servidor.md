@@ -1,4 +1,5 @@
 # Montar un servidor básico EC2 en AWS
+
 Usaremos la capa gratuíta de AWS.
 
 - Dentro de AWS, ir a EC2 y elegir: «Lanzar la instancia»
