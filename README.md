@@ -70,7 +70,9 @@ Sistemas informáticos, la red Internet -estructura y protocolos-, Linux, bases 
 - [Práctica 05: Ciberseguridad I](practicas/practica05_ciberseguridad.md)
 - [Práctica 06: Ciberseguridad II](practicas/practica06_ciberseguridad-2.md)
 - [Práctica 07: Ciberseguridad y III](practicas/practica07_ciberseguridad-3.md)
-
+- [Bonus: Ejercicio lógica, barco (.odt)](recursos/barco.odt)
+    - [Solución: barco (.odt)](recursos/barco-solucion.md)
+    
 ### Semana 3
 
 - [Práctica 08: Programación I](practicas/practica08_programacion.md)
@@ -80,6 +82,8 @@ Sistemas informáticos, la red Internet -estructura y protocolos-, Linux, bases 
     - [Programas Python II (.zip)](recursos/python/programas_python_2.zip)
     - [Programas Python III (.zip)](recursos/python/programas_python_3.zip)
     - [Programas Python y IV (.zip)](recursos/python/programas_python_4.zip)
+- [Bonus: Ejercicio programación, pelota (.odt)](recursos/pelota.odt)
+    - [Solución: pelota (.odt)](recursos/pelota-solucion.odt)
 
 ## Instalaciones
 
