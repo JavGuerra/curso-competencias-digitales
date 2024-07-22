@@ -71,8 +71,8 @@ Sistemas informáticos, la red Internet -estructura y protocolos-, Linux, bases 
 - [Práctica 06: Ciberseguridad II](practicas/practica06_ciberseguridad-2.md)
 - [Práctica 07: Ciberseguridad y III](practicas/practica07_ciberseguridad-3.md)
 - [Bonus: Ejercicio lógica, barco (.odt)](recursos/barco.odt)
-    - [Solución: barco (.odt)](recursos/barco-solucion.md)
-    
+    - [Solución: barco](recursos/barco-solucion.md)
+
 ### Semana 3
 
 - [Práctica 08: Programación I](practicas/practica08_programacion.md)
